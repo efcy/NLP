@@ -1,3 +1,6 @@
+import sqlite3
+import hashlib
+from datetime import datetime
 import praw
 import os
 
@@ -9,4 +12,14 @@ reddit = praw.Reddit(
     username="B-B8",
 )
 
-print(reddit.user.me())
+subreddits = reddit.subreddits.search("robotics")
+
+for subreddit in subreddits:
+    #print(subreddit.fullname)
+    print(subreddit.display_name)
+    for submission in subreddit.hot(limit=100):
+        print(f"\t{submission.title}")
+        print(submission.selftext)
+        print(submission.permalink)
+    
+    quit()
