@@ -14,6 +14,7 @@ def parse_file(file_path):
         'author': None,
         'url': None,
         'text': None,
+        'origin': None,
         'translation': None,
     }
     
@@ -23,7 +24,7 @@ def parse_file(file_path):
     current_value = []
     
     for line in lines:
-        if line.startswith(('title:', 'title_translation:', 'date:', 'author:', 'url:', 'text:', 'translation:')):
+        if line.startswith(('title:', 'title_translation:', 'date:', 'author:', 'url:', 'text:', 'origin:', 'translation:')):
             # Save the previous key-value pair if exists
             if current_key:
                 parsed_data[current_key] = '\n'.join(current_value).strip()
