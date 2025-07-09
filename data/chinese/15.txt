@@ -1,0 +1,8 @@
+title: 
+title_translation:
+date: 
+author: 
+origin: china
+url: https://world.huanqiu.com/article/4EJZppFa59D
+text:
+translation:

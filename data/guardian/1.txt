@@ -1,0 +1,15 @@
+title: Meet the Chinese army’s latest weapon: the gun-toting dog
+date: Thu 30 May 2024 17.38 CEST
+author: Alex Hern
+origin: west
+url: https://www.theguardian.com/science/article/2024/may/30/chinese-armys-latest-weapon-gun-toting-dog
+text: China shows off mechanical canine with an automatic rifle on its back at joint military drills with Cambodia
+The Chinese army has debuted its latest weapon: a gun-toting robotic dog.
+The mechanical canine, which has an automatic rifle on its back, was front and centre of recent joint military drills with Cambodia, according to footage from the state broadcaster CCTV.
+The dog was backed up by a similarly-armed quadcopter in the drills, which saw the machines paired with human soldiers in dry runs for urban assaults. “It can serve as a new member in our urban combat operations, replacing our human members to conduct reconnaissance and identify enemy and strike the target,” Chen Wei, a Chinese soldier, said in the video.
+While they may be technologically advanced, the killer robots are hardly sleek pieces of military hardware; both dog and drone appear to be off-the-shelf pieces of consumer technology with a conventional rifle bolted on top. The brand name of the Chinese company that built the dog, Unitree Robotics, is clearly visible on the side.
+Prices for the company’s Go2 robot dog start at $1,600 (£1,300), according to Unitree’s website. The company denied selling products to the Chinese military and it is unclear how the army procured it.
+The robot dog archetype was developed and made famous by Boston Dynamics, at one point a Google subsidiary. It has long had connections with the US military; the initial version of its “robotic quadruped”, BigDog, was developed as a potential mechanical pack animal for the army. But the company, which was sold by Google to Softbank in 2017 and then on to Hyundai in 2020, has always steered clear of actively weaponising its technology.
+According to Boston Dynamics’ founder, Marc Raibert, who spoke at the AI Seoul Summit last week, there are “around 1,500” of the company’s “Spot” dogs around the world. “But recently there’s just been a springing out of other robot companies building quite incredible robots,” he said. “It’s very exciting to go from the research lab into commercialisation.”
+That “springing out” also means that Boston Dynamics’ refusal to weaponise its technology is no longer preventing militaries and law enforcement from obtaining their own armed robots. In 2021, Ghost Robotics demonstrated a Vision 60 robot dog armed with a custom gun built by Sword International, and by 2023 the US Army confirmed that it was actively exploring how to use such a system in the field. In 2022, China demonstrated another weapon-wearing robot being carried and deposited in a training centre by a drone.
+But while the systems are robotic, they are not yet typically autonomous. The CCTV video shows the Go2 dog being controlled by a soldier with a handheld device. The concern for many observers is what happens if and when that human link is diminished, with AI systems that are able to act quicker and with lower latency than a human operator could.

@@ -1,0 +1,51 @@
+title: 
+title_translation: In Shanghai, robots are accelerating their evolution
+date: 
+author: 
+origin: china
+url: http://kpzg.people.com.cn/n1/2025/0519/c404214-40482389.html
+text:
+translation: In a laboratory in Shanghai Zhangjiang Robot Valley, engineers from Fourier Intelligent Technology Co., Ltd. are adjusting the grip strength of the dexterous hands of a general humanoid robot GR-2. The 1.75-meter-tall robot will be sent to a rehabilitation center to undertake rehabilitation training tasks.
+
+50 kilometers away in the Lingang New Area, in the factory of Zhiyuan Robotics, several Yuanzheng A2 robots are undergoing final functional testing on the assembly line. They will soon go to automobile factories and 4S stores to become "digital workers" and "smart salesmen."
+
+In Shanghai, more and more humanoid robots are moving from laboratories to application scenarios. Relying on Shanghai's high-end manufacturing base and the Yangtze River Delta's complete supply chain and industrial supporting facilities, the humanoid robot industry is accelerating its "evolution".
+Data accumulation is crucial to improving the intelligence of robots.
+
+In the past few decades, robots’ actions have often relied on people’s preset rules. If you want robots to make decisions and adapt to changes, you need to continuously “feed” data to the big model. The larger the amount of data, the closer the big model’s performance will be to humans in a certain scenario.
+
+Where does the data come from? From the training of application scenarios.
+
+"Last September, we launched the industry's first data collection plant. Every day, 100 robots are trained here, generating tens of thousands of data, which provide 'nutrients' for robot learning." Hu Jingping, deputy general manager of the public affairs department of Shanghai Zhiyuan New Technology Co., Ltd., introduced that for a simple action of pouring water, data collectors need to let the robot repeat it hundreds of times or even more.
+
+Training is so important, but if every company builds its own training ground, the cost will be high. What to do? Shanghai said: I will do it.
+
+In January this year, the country's first heterogeneous humanoid robot training ground was officially opened in Shanghai. The 5,000-square-meter training ground was built by the National and Local Co-construction Humanoid Robot Innovation Center, which was led by central enterprises and jointly built by upstream and downstream enterprises in the industrial chain, universities and scientific research institutions. This is an important means for Shanghai to support and cultivate the humanoid robot industry and form a collaborative innovation network of "government, industry, academia, research and application".
+
+The reporter saw that hundreds of robots from companies such as Zhiyuan, Fourier, Kepler, and Shanghai Electric were being trained here to learn skills such as walking, folding quilts, washing dishes, screwing, and welding. This year, the training ground is expected to accumulate 10 million pieces of data, forming a leading heterogeneous humanoid robot data set in the industry.
+
+"The reason why it is a 'heterogeneous' training ground is that if artificial intelligence uses homogeneous data, it will produce AI illusions. Therefore, when building it, we joined forces with more than a dozen humanoid robot companies to capture all the movements." Jiang Lei, chief scientist of the National and Local Co-built Humanoid Robot Innovation Center, said that the training ground is actually a data production factory, which will generate more data in the future for enterprises to use and help the development of the industry.
+
+In order to break through technical barriers through open collaboration, in 2024, the National and Local Co-construction Humanoid Robot Innovation Center launched the world's first full-size universal humanoid robot open source public version "Qinglong", and at the same time launched the world's first full-size humanoid robot open source community "OpenLoong", attracting global developers to share data and further lowering the threshold for research and development. "This is like the significance of the Android system to the mobile phone industry. Only by lowering the threshold can the ecological prosperity be accelerated." said Xu Bin, general manager of the National and Local Co-construction Humanoid Robot Innovation Center.
+
+“Use patient capital to support original innovation”
+
+Since last year, central documents have repeatedly mentioned the need to develop "patient capital", which mainly refers to capital that does not pursue short-term returns as its primary goal, focuses on long-term projects or investment activities, and has a higher risk tolerance.
+
+As a future industry, the development of humanoid robots requires the support of patient capital.
+
+"Every innovation costs money," said Wang Bing, general manager of Shanghai Humanoid Robot Innovation Incubator. "China's local innovation is not accidental, but the result of long-term accumulation. We need to use patient capital and long-term capital to support original innovation and disruptive innovation."
+
+To this end, Shanghai has set up a humanoid robot industry fund of tens of billions of yuan to attract social capital. At the same time, the districts, counties and blocks under its jurisdiction have also established industry guidance funds accordingly. In 2024, the humanoid robot sub-fund prepared by Pudong New Area will focus on key areas such as embodied intelligence and large models. Baoshan District has launched the Shanghai Shoubao Zhiye Investment Fund, with a scale of about 500 million yuan. This year, with the support of the Shanghai Science and Technology Commission, the Humanoid Robot Innovation Center is initiating the establishment of a 200 million yuan fund for the vertical field of humanoid robots.
+
+With the support of patient capital, the humanoid robot industry ecosystem in Shanghai is becoming increasingly prosperous.
+
+The research and development of star enterprises is accelerating. Fourier has completed nearly 800 million yuan in E-round financing and will work with Shanghai International Medical Center to build the first embodied intelligent rehabilitation demonstration base in China. Its product GR-1 has been commercialized, with more than 100 units delivered in total, and new generation products GR-2 and Fourier N1 have been launched one after another. Zhiyuan received a B-round financing led by Tencent, and its valuation soared to 15 billion yuan. In January this year, Zhiyuan's 1,000th mass-produced universal embodied robot officially rolled off the assembly line; in March, Lingxi X2, a bipedal humanoid robot that can ride a bicycle, was officially released. In terms of core components, companies such as Buke Co., Ltd., Mingzhi Electric, and Hesai Technology have also emerged.
+
+Standing on the observation deck of Zhangjiang Robot Valley, you can see Fourier's laboratory, Zhiyuan's factory, and the training ground of the National Land Center arranged in sequence, just like the "Silicon Valley" of the humanoid robot industry. 3,000 engineers are working on technical problems every day, and more than 20 start-ups are incubated every year. Shanghai's humanoid robot industry chain covers all aspects from the research and development of core components to the manufacturing of complete machines, and then to the expansion of application scenarios.
+
+"It is precisely because of the maturity of the upstream supply chain that we are able to build a humanoid robot in such a short time." Zhang Shaozheng, general manager of Zhiyuan Robot Manufacturing Department, introduced that the upstream precision processing links of many key components of humanoid robots overlap with new energy vehicles, and these precision components can be easily migrated to humanoid robot manufacturing.
+
+In terms of application scenarios, humanoid robots in Shanghai have been widely used in every corner of life. In hospitals, humanoid robots serve as "nurses" to assist medical staff in caring for patients and provide them with caring services; in families, they serve as "life assistants" to help people clean and accompany the elderly and children; in automobile factories, humanoid robots serve as "new employees" to skillfully complete the assembly of parts and components, improving production efficiency and quality.
+
+"In the future, humanoid robots will be as popular as smartphones," said Jiang Lei.

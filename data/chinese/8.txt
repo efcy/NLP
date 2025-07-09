@@ -1,0 +1,44 @@
+title: 
+title_translation: When will humanoid robots enter everyday life?
+date: 
+author: 
+origin: china
+url: http://finance.people.com.cn/n1/2025/0212/c1004-40416837.html
+text:
+translation: 　From commercial services to intelligent manufacturing, from accompanying the elderly to counting goods and running stores... the manufacturing of humanoid robots is "accelerating", when will it become part of the lives of ordinary people?
+
+　　Humanoid robots, also known as humanoid robots, bionic robots, etc., usually have a head, torso, arms and legs, etc., and are as close to humans as possible in structure and function, and have certain motor and perception abilities.
+
+　　Nowadays, humanoid robots are becoming a new trend.
+
+　　This year, Beijing will host the World Humanoid Robot Games and the Robot Half Marathon.
+
+　　According to incomplete statistics from the Industrial Research Institute of Shenzhen New Strategy Media Co., Ltd., as of June 2024, there are more than 160 humanoid robot manufacturers in the world, of which more than 60 are Chinese companies, making China the country with the largest number of humanoid robot manufacturers in the world.
+
+　　According to the International Federation of Robotics, the global humanoid robot market will have a compound annual growth rate of 71% from 2021 to 2030. The China Institute of Electronics predicts that by 2030, China's humanoid robot market is expected to reach about 870 billion yuan.
+
+　　At present, the mainstream humanoid robots on the market are expensive, with prices exceeding 100,000 yuan, and even exceeding 500,000 yuan. Many people believe that humanoid robots have limited functions and are expensive, so why is the layout of related industries accelerating?
+
+　　Industry insiders said that the popularity of humanoid robots is closely related to factors such as technological development, market demand and policy promotion.
+
+　　From a technical perspective, advances in artificial intelligence and machine learning have significantly enhanced the capabilities of humanoid robots in environmental perception and human-machine interaction. The development of hardware technology has also promoted the improvement of humanoid robots' capabilities in motion control and other aspects.
+
+　　At the World Robot Conference held in Beijing last year, the GALBOT G1 universal humanoid robot produced by Beijing Galaxy General Robot Co., Ltd. picked up goods from the shelves and delivered them accurately to customers after hearing voice commands. The robot is expected to be initially used in commercial scenarios such as unmanned pharmacies and supermarkets.
+
+　　From the perspective of market demand, the aging population and labor shortage have greatly expanded the application scenarios of humanoid robots.
+
+　　Use an air fryer to fry French fries, make salad burgers, brew coffee, briefly soothe children, fold clothes... These scenes at the 2024 World Robot Conference allow people to see more possibilities for humanoid robots to enter daily life.
+
+　　The attention given at the national strategic level has also become a strong driving force for the accelerated development of my country's humanoid robot industry.
+
+　　In January 2024, the Ministry of Industry and Information Technology and seven other departments issued an implementation opinion on promoting the innovative development of future industries, proposing to strengthen future high-end equipment, among which humanoid robots ranked first in the "innovative iconic products" column. In recent years, Beijing, Shanghai, Guangdong and many other places have also proposed to focus on cultivating future industries such as humanoid robots.
+
+　　Leng Xiaokun, chairman of Leju (Shenzhen) Robotics Technology Co., Ltd., believes that the greatest significance of humanoid robots in the industrial field is that companies do not need to transform production lines for mechanization. "During our visits, we found that there are still a lot of links in factory scenes that rely on manual labor and cannot be solved by industrial robots. Humanoid robots can be adapted to existing production lines 1:1 and can be put into use without modification."
+
+　　However, in the factory sector, humanoid robots are still in the small-scale trial stage, and only a small number of advanced factories have begun to explore their use in certain work processes. It is still too early to achieve large-scale replacement of humans.
+
+　　Industry insiders predict that more humanoid robots may enter production lines in the next three to five years; but truly entering people's lives will require higher precision and safety, and it will take longer.
+
+　　Yao Qiyuan, founder and marketing director of Shenzhen Zhongqing Robot Technology Co., Ltd., suggested that the relevant standards for humanoid robots should be improved as soon as possible, and application scenarios should be continuously opened up so that humanoid robots can be "applied first."
+
+　　"Compared with foreign countries, China has richer application scenarios, which is conducive to the full training of humanoid robots. We look forward to policies, technologies, and demands jointly promoting the development of the humanoid robot industry." Leng Xiaokun said.

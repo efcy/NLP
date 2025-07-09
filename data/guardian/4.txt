@@ -1,0 +1,30 @@
+title: Robot dogs deployed in New York building collapse revive surveillance fears
+url: https://www.theguardian.com/technology/2023/apr/26/robot-dogs-new-york-building-collapse-surveillance
+date:
+author:
+text:
+Robots praised by New York mayor for searching ruins of a parking garage collapse, but critics fear robots will collect private data 
+“Digidog is out of the pound,” Eric Adams declared in April. The New York City mayor also insisted the successful use of the 
+controversial robot in response to a recent building collapse should convince critics such devices can improve safety in the city.
+Adams commended first responders’ use of the four-legged robot in the ruins of a parking garage collapse last week in Manhattan, 
+in which one person was killed and five injured.
+First responders used the robot to search the rubble while safety concerns about the building’s structure persisted.
+“Some people call them toys,” Adams told reporters. “This is not playtime. This is real time. And this is an administration that 
+is not going to be fearful of using everything possible to save the lives of New Yorkers and to save the lives of first responders.”
+Critics said the use of such robots in the building collapse response did not negate legitimate concerns about the use of robots 
+for surveillance and aggressive policing.
+Donna Lieberman, executive director of the New York Civil Liberties Union, told the New York Times: “While deploying a robot is, 
+of course, appropriate in situations like this, that doesn’t eliminate the need for transparency about this and other technologies 
+that may have the capacity to engage in massive surveillance and routinely collect massive amounts of private personal data on 
+millions of New Yorkers.”
+Critics also noted that it was not clear how useful the Digidog was in the building collapse response.
+“I want to believe that these robots would be effective in a building collapse,” Albert Fox Cahn, an attorney and executive 
+director of the Surveillance Technology Oversight Project, told the Times. “But we need more than a couple of soundbites.”
+Adams began rolling out the robots this month. New technologies were advertised as helping New York police investigate high-risk areas, 
+CBS News reported.
+When such technologies were proposed under the former mayor, Bill Blasio, critics warned of unneeded surveillance largely used against 
+low-income people of color. The robot dogs were withdrawn, after backlash to their use in public housing areas and in response to a home 
+invasion in the Bronx.
+Adams has also faced criticism for escalating police powers, including reinstating a notorious plainclothes unit and pledging to 
+increase use of facial recognition technology. Such technology has been criticized as inaccurate and disproportionately used
+against minorities.

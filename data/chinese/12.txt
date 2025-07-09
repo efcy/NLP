@@ -1,0 +1,90 @@
+title: 
+title_translation: Advancing intelligence and moving towards the future - Observations on the current robotics industry
+date: 
+author: 
+origin: china
+url: http://www.news.cn/fortune/20250506/9220cd55101c44359b33bcb90d28232b/c.html
+text: 
+translation:  Robots walk on the catwalk and enter factories to assist in car manufacturing. Robots are helping in education, medical care, urban management and other fields. Today, robots have been widely used and have entered into your and my lives.
+
+  With the rapid development of technology, the robotics industry is accelerating its "intelligence" and innovation. Especially since this year, from the central government to local governments, a series of arrangements have been made to cultivate embodied intelligence and develop intelligent robots. The policy side and the market side resonate at the same frequency, the new track is gradually opening up, and the industry is developing in full swing.
+
+  Some institutions predict that during the 15th Five-Year Plan period, the scale of my country's robot industry will grow to about 400 billion yuan. The future is here and the opportunities are endless.
+Before the May Day holiday, intelligent robots were put on duty at the Bibo Island Resort in Jinhai Lake, Pinggu, Beijing. Cruising, guiding, and interacting with tourists, cultural tourism has a new way of opening up.
+
+  The person in charge of the Bibo Island Resort said that intelligent robots make tourism more "smart and interesting", and also help with the refined management of scenic spots, adding "smart" power to the cultural and tourism industry.
+
+  From participating in marathons to working more intelligently in factories, robots are becoming increasingly popular this spring, and the entire industry is on the cusp of the trend.
+On March 11, Zhiyuan Robotics released the Lingxi X2, a bipedal intelligent interactive humanoid robot that integrates functions such as movement, interaction, and operation; just one day later, on March 12, UBTECH and the Beijing Humanoid Robot Innovation Center jointly released a full-size humanoid robot for scientific research and education, which is scheduled to start delivery in the second quarter.
+
+  From professional exhibitions, we can more intuitively feel the "concentration" of innovation. Take the recent Robot Industry Linkage Conference held in Shenzhen as an example, industrial robots have achieved the upgrade from "mechanical arms" to "smart brains", collaborative robots have demonstrated intelligent operation solutions, from "dexterous hands" to "electronic skin", and participating companies have shown their "unique skills" and kept refreshing the screen.
+ The market is full of new products, and the production boom is surging. The sales of "electronic skin" has increased 10 times, the orders for direct-drive motors in January have exceeded half of last year, and the new generation of smart elderly care robots are popular in the market... In Songshan Lake, Dongguan, Guangdong, many robot companies have won a large number of orders.
+
+  In the first quarter, my country's output of industrial robots and service robots reached 149,000 sets and 2.604 million sets, up 26% and 20% year-on-year respectively.
+
+ "I have to look at and search for projects almost every week to learn about the latest trends." A head of a venture capital institution lamented that current innovation in robots "is not measured in years, but in days."
+
+  Take the robot "Tornado Boy" that just finished a marathon as an example. Its previous generation product learned to walk in May 2024, run in June, complete double-leg and single-leg jumping in July, and start dancing skills in October... The "growth" speed is beyond imagination.
+ Not only humanoid robots, but also industrial robots and service robots are making great strides forward.
+
+  In the painting room of the assembly line of China First Tractor, the chassis painting operation of the tractor is in progress: the mechanical arm can be seen turning flexibly, and the error of the paint film thickness is controlled at the millimeter level. The technician told reporters that after integrating intelligent technology and 3D models, the mechanical arm can automatically generate the spraying path and adjust the parameters according to the temperature and humidity on site. "Industrial robots are already able to sense changes in the production environment and realize the self-adaptation of intelligent processes."
+
+  More than a thousand mobile operating robots are used in aerospace, semiconductor and other manufacturing links; explosion-proof industrial robots are used on a large scale in the manufacturing of rail transit equipment and other links; surgical robots assist in completing complex remote surgeries... Behind each landmark breakthrough is a reflection of the industry's move towards new quality improvement.
+ my country has set up a 60 billion yuan national artificial intelligence fund to speed up the layout of investment projects; the Ministry of Industry and Information Technology has promoted the supply and demand docking and promotion and application of "robot +" to enhance the resilience of the industrial chain; the central and local governments have jointly built innovation centers such as embodied intelligent robots and humanoid robots to promote industrial agglomeration...
+
+  Chongqing proposed to promote the research and development of core technologies around "storage and computing in one" chips, and Beijing announced that it will release more than 10,000 robot application opportunities within two years. Many places across the country have taken active actions to deepen and implement the layout from the research and development side to the application side.
+
+  The report released by the China Academy of Information and Communications Technology predicts that during the 15th Five-Year Plan period, the penetration rate of industrial robots in my country will increase significantly, service robots will continue to evolve, and humanoid robots will shift from being resource-driven to being market-driven.
+
+  "On the one hand, new technologies are accelerating industrial iterations, and on the other hand, the transformation of manufacturing and service industries is creating huge space. The domestic robotics industry has entered a period of rapid development," said Song Xiaogang, Secretary-General of the China Machinery Industry Federation.
+  Behind the popularity of robots is the accumulation of strength of the entire industrial chain.
+
+  The reporter’s investigation found that the domestic robot manufacturing system is becoming more and more complete, from materials and parts to electronic systems and final assembly integration, which has strongly supported the industry’s pursuit of innovation and change.
+
+  Walking into the production workshop of Suzhou Green Harmonic Drive Technology Co., Ltd., you will see robotic arms taking out raw materials from the operating box, processing, testing, cleaning, and oiling them to make the flexible wheel in the harmonic reducer.
+ Harmonic reducers are called the "joints" of robots. They have extremely high requirements for technology and craftsmanship and have long been monopolized by foreign countries. This "little giant" company continues to overcome technical difficulties such as material selection and flexible bearings to control the transmission error within 10 arc seconds. Zhang Yuwen, general manager of Green Harmonic, said that the company is targeting the new trend of embodied intelligence and developing integrated robot joints to provide support for building more complex robot systems.
+
+  From domestic breakthroughs to domestic substitution, today, domestic harmonic reducers have accounted for more than 40% of the domestic market share.
+
+  It is not just the reducer. In recent years, my country has continued to strengthen and supplement the entire robot industry chain: identify weak links, make systematic arrangements around strengthening core technology research, etc.; launch the "unveiling the list and appointing the leaders" campaign for cutting-edge fields and key links in the industry, and post a list of talents; from technology enterprise incubators to the first unit (set), first batch, first edition and other promotion and application support policies, we will connect production, education, research and application, and unite the industry to jointly tackle the shortcomings of the industry.
+
+  Breakthroughs at each point have effectively enhanced the resilience of the chain. With the acceleration of the localization process of key links, China's "Iron Man" has a more solid support.
+
+  Looking at the industry, innovation on the chain is "blooming in many places"——
+
+  The mass-produced 5-finger dexterous hand of Zhejiang Lingqiao Intelligent Technology Co., Ltd. realizes accurate measurement and fine perception of the environment and operating objects; the high-performance servo motor of Leadshine Intelligent improves the robot's motion control capabilities; the high-energy density battery of CATL can provide more powerful power for the robot... From robotic arms, sensors to batteries, and body manufacturing, domestic suppliers play an important role in almost every part of the robot.
+ "We are growing together with domestic brands." In the interview, many business leaders expressed this view.
+
+  The density of robots in my country's manufacturing industry has reached 470 per 10,000 workers, and the huge manufacturing industry provides rich scenarios for industrial applications. In recent years, the advantageous industries represented by the "new three things" have grown stronger, and the voice of the industrial chain has been enhanced, which has led to a number of domestic robots being put into use. The market experience has accelerated the growth of domestic suppliers.
+
+  This is a scene in Shenzhen Nanshan "Robot Valley": Pasini's tactile sensors can be directly supplied to UBTECH across the street, and the simulation data of Cross-Dimension Intelligence can be input into Zhifang's training system in real time. From laser radar, robotic arms, to dexterous hands, the supply chain is right at the doorstep, and the synergy effect of "R&D in the morning, testing in the afternoon, and iteration at night" is beginning to emerge.
+
+  "my country has formed a full industrial chain layout of robots covering all upstream and downstream fields, and the autonomy rate, product competitiveness, and penetration rate of key industries have been further improved." Song Hongjun, a senior researcher at the State Investment and Merchants Advanced Manufacturing Industry Research Institute, said that although there are still bottlenecks such as motion control algorithms and high-precision sensors, and some links have not been fundamentally solved, the synergy of policies and markets has promoted the in-depth layout of the industrial chain. "The robotics industry is undergoing a qualitative change from 'parts assembly' to 'smart symbiosis'."
+
+  Robotics is an emerging industry and a key industry supporting digital upgrades. In the face of the rapid technological competition, we must take the initiative and seize the opportunity.
+  Walking into the humanoid robot data training center located in Beijing’s Shougang Park, we saw engineers wearing wearable devices and using remote control to control robots to accurately complete actions such as watering, arranging flowers, and folding clothes.
+
+  Zhang Qinfeng, director of the center, told reporters that high-quality data sets are the gateway for robots to understand the world. An important task at present is to speed up the "density" of practical training, quickly accumulate data, and promote evolution and upgrading.
+
+  Empowering with "numbers" to create a "smart brain" for robots——
+
+  Since the beginning of this year, many places have announced to strengthen the construction of embodied intelligence training centers, aiming at the problem of data shortage, and "robot technical schools" and "data factories" have been accelerated. At the same time, the industry is also exploring new technologies and expanding new ways to obtain data.
+
+  Beijing Galaxy General Robotics Co., Ltd. attempts to train robots with data produced by physical simulators through synthetic data-driven technology. Wang He, the company's founder, said that it has accumulated tens of millions of scene data and billions of action data.
+
+  Ma Jian, CEO of Jingtai Technology, said that the intelligent autonomous experiment platform developed by the company can increase data collection capabilities by 40 times. It has deployed more than 300 robotic experiment stations and accumulated a large amount of standardized, high-quality experimental data.
+
+  In addition, the digital "foundation" is also being further consolidated. The National Bureau of Data has made it clear that it will systematically promote the construction of a national integrated computing network and promote the interconnection of regional and industry data infrastructure. The Ministry of Industry and Information Technology has proposed that it will strengthen the research and development layout of general large models and industry large models and accelerate the construction of high-quality data sets in the industrial field.
+
+  "Wherever the 'AI+' action goes, the construction and promotion of high-quality data sets must go there." A relevant person in charge of the National Data Bureau said that they will fully mobilize the forces of all sectors of society to continuously increase data supply.
+
+  Aiming at the future, strengthening basic research and forward-looking layout——
+
+  In the Shanghai "Mosu Space" large model innovation ecological community, Wuwen Xinqiong uses its self-developed technology to achieve the coordinated operation of multiple large model algorithms on multiple chips; Xiyu Technology continues to make breakthroughs in multimodal large model technology and accelerate the development of AI intelligent bodies... The "going up and down the stairs is upstream and downstream" model here promotes the cooperation of resident companies from underlying technology, application research and development, scenario design and other links, and a number of cutting-edge technologies are emerging rapidly.
+ In Yizhuang, Beijing, the National and Local Co-constructed Embodied Intelligent Robot Innovation Center released the universal embodied intelligent platform "Huisi Kaiwu", which realizes the compatibility of a single software system on multi-configuration bodies such as robotic arms and wheeled robots. The technical achievements will be open to the industry, drawing on the strengths of many people and accelerating the joint efforts to tackle key common technologies.
+ Towards high-quality development, the robotics industry still has many problems to solve. For example, there are shortcomings in basic theoretical research and basic technology research; the hardware cost of humanoid robots is relatively high, which restricts large-scale application.
+
+  From AI model bases to high-computing chips, from brain-like intelligence to next-generation communications, the industry and academia are increasing cross-disciplinary and cross-field integration and innovation, actively integrating industrial resources, and working together to explore and tackle key problems.
+
+  At the beginning of the year, my country took the lead in formulating and releasing the world's first international standard for elderly care robots; not long ago, the first batch of national standards in the technical requirements series for humanoid robots were approved... Establishing standards and establishing norms are constantly pushing the industry forward steadily.
+ "In this 'long-distance race' to cultivate new quality productivity, we must not only strengthen the supply of science and technology, but also work hard in strategic planning, talent training, etc., especially optimizing the industrial layout and strengthening standardized construction." Xiong Youjun, general manager of the National and Local Co-built Embodied Intelligent Robot Innovation Center, said that only by taking more steady and solid steps can every "small step" forward of the robot become a "big step" to promote industrial development, and achieve the leap from "running a half marathon" to "running" into the future.

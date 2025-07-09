@@ -1,0 +1,106 @@
+title: 国产割草机器人走俏海外
+title_translation: Domestic lawn mowing robots are popular overseas
+date: 
+author: 
+origin: china
+url: http://finance.people.com.cn/n1/2025/0617/c1004-40501866.html
+text: 家住德国下萨克森州的霍夫曼说，自家草坪面积不小，需要经常对草坪进行清理。购买割草机器人时，他“货比三家”发现，欧洲品牌价格普遍偏高，售后也做不到完全本地化，最后选择了中国品牌科沃斯。
+
+　　“在德国，科沃斯割草机器人已经有了稳定的售后系统，设计也很符合欧洲用户的习惯。我还非常喜欢这款机器人的路径规划。比如，它不是‘随机游走’，而是有结构地覆盖草坪，效率更高。太太说我终于不用每周末都推割草机了。”霍夫曼说。
+
+　　据了解，在欧美等许多国家，家庭草坪保有量较大。自上世纪70年代起，汽油动力割草机开始成为不少地区庭院维护的常用工具。但随着人们环保意识增强以及工作节奏加快，传统“汽油动力+手推式”割草机慢慢变得难以满足需求。这一变化，为割草机器人产业发展带来了旺盛需求，中国相关品牌企业开始积极拥抱这一市场。
+
+　　“欧美和澳大利亚等地有大量郊区住宅，庭院面积较大、人口密度较低，传统手工修剪效率低且成本高，使用智能割草机器人能大幅节省劳力、时间和金钱支出。”安克创新科技股份有限公司高级副总裁兼悠飞（eufy）事业部负责人祝芳浩说，割草机器人的使用场景覆盖了住宅庭院、公园绿地及小型公共景观区域，可以满足从200平方米到4000平方米的不同需求，适应不同坡度场景，能够有效绕行花坛、泳池和树木等障碍。不仅如此，在这些地区，草坪维护情况已融入房屋价值体系，形成了高保有率的成熟消费环境。
+
+　　人口老龄化加深、生活节奏加快、户外空间需求增加等，也是推动割草机器人需求增长的重要因素。
+
+　　“我们GOAT系列产品已经进入德国、意大利、法国、西班牙等许多市场，正通过更多渠道服务当地消费者。凭借着智能化操作体验，相关产品十分畅销。从欧洲市场来看，今年销量预计比去年增加1倍以上。”科沃斯欧洲负责人安忠君说。
+
+　　“电动化、低碳化、智能化是行业发展的重要方向，割草设备也从‘人工预埋线’阶段向‘自动化智能化无人化’演进，为割草机器人发展打开了巨大增长空间。”正在美国拓展业务的上海沃施实业有限公司总经理吴君亮说。相关预测显示，到2028年全球割草机器人市场规模将达到40亿美元左右。
+
+　　技术突破大幅优化用户体验
+
+　　中国生产的割草机器人为何能畅销海外？
+
+　　过硬的产品性能是重要因素。在亚马逊平台上，中国企业生产的割草机器人获得大量好评，其中“安装及操作简单”“自动避障精准”“性能卓越”位列前三。
+
+　　“2018年时，我买的割草机需要铺设电缆，过程非常耗时。现在，安克生产的eufy E18割草机器人充电后就能直接开始工作了，操作非常简单，这简直太棒了！如果院子里长出了以前没有的新草，它会自动扩展清理区域；如果鼹鼠挖了洞，它还会主动绕过这个地方。我估计开发人员应该每周都在为割草机器人改进程序，我应该很快就会给它打五星好评！”一位网名为“A.T.K.”的海外用户专门上传了产品“工作照”并写下了一大段使用体会。
+
+　　来自瑞典的奎尔比在今年春天通过当地经销商购买了一台格力博生产的Aiconic型割草机器人。几番使用下来，他对这款产品深感满意。“我的花园比较大，里面还有一些花坛和机器人不应该进入的区域。我们把RTK天线安装在屋顶上并设置了花园里的割草范围。我发现，它的割草效果很好，没有留下任何未割区域，而且割出来的草坪条纹也非常漂亮。”奎尔比说。
+
+　　海外用户“买账”的背后，是一系列技术创新和突破。
+
+　　格力博（江苏）股份有限公司董事长陈寅说，公司自主研发的第三代割草机器人采用RTK厘米级卫星定位与惯导系统，结合视觉导航避障、毫米波雷达及ToF深度相机组成的多传感器融合系统，突破了传统电磁感应的技术路线。“比如，我们创新性的智能算法可以使产品能够根据场地特点灵活调整作业模式，在降低草皮损伤率的同时提升30%能源使用效率，显著延长设备续航时间。”陈寅说，深交所创业板的直接融资，助力公司加大AI智能系统研发投入。如今，格力博已经实现了算法在机器人本地端运行，即便在无网络的环境下，产品也能完成草种识别、障碍回避等基本智能判断，从而更好保护数据隐私。
+
+　　九号公司旗下子公司未岚大陆生产的割草机器人产品已远销德国、法国、美国、英国、新西兰等30多个国家和地区。“我们新一代智能割草机器人Segway Navimow X系列产品售价远低于传统人工割草一年的费用，为用户节省了大量的割草成本。”九号公司公关经理李可告诉记者，研发团队通过提升机器行驶速度、加大刀盘宽度、优化电池性能、减少充电时间、配置300度视角三摄VSLAM系统等技术革新，让机器的定位精度、割草效率和运行稳定性都得到显著提升。
+
+　　“可以说，正是激光雷达、无边界导航等技术的突破，显著提升了割草机器人的产品性能，大幅优化了用户体验。现在很多新款割草机器人，都支持手机APP远程控制。用户可以单独设定割草时间和区域，查看实时工作状态和维护提醒等信息。”吴君亮说，激光雷达等部件国产化加速，降低了整机成本，推动了产品价格下降。
+
+　　完善的产业链提供强大支撑
+
+　　科沃斯割草机器人2024年全年海外收入和销量同比分别增长186.7%和271.7%；大叶股份今年初完成收购德国AL-KO公司并新增奥地利生产基地；库犸动力推出Mini版庭院割草机器人亮相全球消费电子展（CES）……如今，中国企业正在加速拓展割草机器人海外业务。
+
+　　企查查数据显示，截至5月底，企业名称、经营范围、品牌产品或专利关键词中明确包含“割草机器人”的企业达177家，苏州、深圳、南京、杭州、常州等地相关企业数量较多。在采访中，许多业内人士提到，国产割草机器人走俏海外的背后，其实是中国工业体系的完备和产业配套能力的日益强大。
+
+　　最近，浙江三锋实业股份有限公司总经办主任应鑫森行程满满，关于出口的会议一个接着一个。利用会议间隙，他向本报记者介绍了国产割草机器人畅销海外的部分原因：精准定位、避障感知、驱动控制、路径规划等技术模块，是割草机器人真正实现自动化与智能化的关键。中国在激光雷达、智能算法、低脉冲电机、多模态控制等一系列细分领域都拥有优秀的企业。
+
+　　“完整的产业链供应链不仅让产品创新空间更大，而且找对路子后也更容易实现产业化规模化，从而尽快降低成本。”应鑫森说，浙江三锋的割草机器人搭载高性能无刷电机和自适应切割系统，定位精度达到厘米级，可依据草坪面积和形状自动调整割草速度与路径。目前，企业主力产品售价在3000元至1万元左右，正在通过广交会等渠道积极拓展海外市场。
+
+　　除了依托国内的供应链体系，强大的跨境电商也为产品带来了更多出海增长点。比如，速卖通等跨境电商有着跨区域准入简化、交易流程优化、品牌曝光提升等优势，正在帮助相关企业扩大销售范围、加速技术升级、树立品牌形象。“我们的产品在精准导航、动态避障、边缘清理、远程控制等方面能很好满足用户需求，安克E15和E18两款割草机器人上市首月海外销量就突破4000台。目前，我们也在积极完善本地化仓储网络与智能物流体系，构建多维服务体系，强化海外交付能力，积蓄更大发展动能。”祝芳浩说。
+
+　　专家认为，割草机器人是中国制造不断向上向新发展的一个缩影。随着中国与世界经济的联系日益紧密，类似“中国制造、全球畅销”的爆款新品有望越来越多。
+translation: With a light touch, the garden mode is set, and the robot moves forward at a constant speed along the S-shaped trajectory. Wherever it sweeps, the grass clippings are evenly laid out in a straight line... Chinese-branded smart lawn mowing robots are becoming a powerful assistant for overseas customers in taking care of their country gardens.
+
+　　Since the beginning of this year, the performance of many companies engaged in robot or garden equipment manufacturing, such as Ninebot, Ecovacs, Greebo, and Daye Group, has grown rapidly, among which overseas sales of smart lawn mowing robots have become a new highlight.
+
+　　Why are domestic lawn mower robots so popular overseas? What are the technical advantages of Chinese companies? The reporter conducted an interview.
+
+　　
+
+　　Lawn mowing robots are popular in Europe and the United States
+
+　　Hoffman, who lives in Lower Saxony, Germany, said that his lawn is quite large and needs to be cleaned frequently. When buying a lawn mower robot, he compared prices from three different stores and found that European brands were generally more expensive and after-sales service was not completely localized, so he finally chose the Chinese brand Ecovacs.
+
+　　"In Germany, the Ecovacs lawn mower robot already has a stable after-sales system, and its design is in line with the habits of European users. I also really like the path planning of this robot. For example, it does not 'randomly walk', but covers the lawn in a structured manner, which is more efficient. My wife said that I finally don't have to push the lawn mower every weekend," said Hoffman.
+
+　　It is understood that in many countries such as Europe and the United States, there are large numbers of home lawns. Since the 1970s, gasoline-powered lawn mowers have become a common tool for garden maintenance in many regions. However, as people's environmental awareness increases and the pace of work accelerates, traditional "gasoline-powered + hand-push" lawn mowers are gradually becoming unable to meet demand. This change has brought strong demand for the development of the lawn mowing robot industry, and related Chinese brand companies have begun to actively embrace this market.
+
+　　"There are a large number of suburban residences in Europe, America and Australia, with large courtyards and low population density. Traditional manual mowing is inefficient and costly. Using smart mowing robots can greatly save labor, time and money." Zhu Fanghao, senior vice president of Anker Innovations Technology Co., Ltd. and head of the eufy business unit, said that the use scenarios of mowing robots cover residential courtyards, park green spaces and small public landscape areas, which can meet different needs from 200 square meters to 4,000 square meters, adapt to different slopes, and effectively bypass obstacles such as flower beds, swimming pools and trees. Not only that, in these areas, lawn maintenance has been integrated into the housing value system, forming a mature consumer environment with a high retention rate.
+
+　　The aging of the population, the accelerated pace of life, and the increased demand for outdoor space are also important factors driving the growth in demand for lawn mowing robots.
+
+　　"Our GOAT series products have entered many markets such as Germany, Italy, France, Spain, etc., and are serving local consumers through more channels. Thanks to the intelligent operation experience, related products are very popular. From the perspective of the European market, this year's sales are expected to more than double that of last year." said An Zhongjun, head of Ecovacs Europe.
+
+　　"Electrification, low carbonization and intelligence are important directions for the development of the industry. Mowing equipment has also evolved from the stage of 'manual pre-buried wires' to 'automated, intelligent and unmanned', which has opened up huge growth space for the development of mowing robots." Wu Junliang, general manager of Shanghai Woshi Industrial Co., Ltd., which is expanding its business in the United States, said. Relevant forecasts show that by 2028, the global market size of mowing robots will reach about 4 billion US dollars.
+
+　　Technological breakthroughs significantly optimize user experience
+
+　　Why are lawn mowing robots produced in China so popular overseas?
+
+　　Excellent product performance is an important factor. On the Amazon platform, lawn mower robots produced by Chinese companies have received a lot of positive reviews, among which "easy to install and operate", "automatic obstacle avoidance accuracy" and "excellent performance" ranked in the top three.
+
+　　"In 2018, the lawn mower I bought required laying cables, which was a very time-consuming process. Now, the eufy E18 lawn mower robot produced by Anker can start working directly after charging. It is very easy to operate, which is amazing! If new grass grows in the yard that was not there before, it will automatically expand the cleaning area; if a mole digs a hole, it will actively bypass this place. I guess the developers should be improving the program for the lawn mower robot every week, and I should give it a five-star rating soon!" An overseas user named "ATK" specially uploaded the product "working photos" and wrote a long paragraph about his experience.
+
+　　Quilby from Sweden bought an Aiconic lawn mower robot produced by Greebo through a local dealer this spring. After using it several times, he is very satisfied with this product. "My garden is relatively large, and there are some flower beds and areas that robots should not enter. We installed the RTK antenna on the roof and set the mowing range in the garden. I found that it mows very well, leaving no uncut areas, and the lawn stripes are also very beautiful." Quilby said.
+
+　　Behind the overseas users' "buy-in" is a series of technological innovations and breakthroughs.
+
+　　Chen Yin, chairman of Greebo (Jiangsu) Co., Ltd., said that the company's independently developed third-generation lawn mower robot uses RTK centimeter-level satellite positioning and inertial navigation system, combined with a multi-sensor fusion system consisting of visual navigation obstacle avoidance, millimeter-wave radar and ToF depth camera, breaking through the traditional electromagnetic induction technology route. "For example, our innovative intelligent algorithm enables the product to flexibly adjust the operation mode according to the characteristics of the site, while reducing the turf damage rate and improving energy efficiency by 30%, significantly extending the equipment life." Chen Yin said that direct financing from the Shenzhen Stock Exchange's ChiNext has helped the company increase its investment in the research and development of AI intelligent systems. Today, Greebo has realized the operation of algorithms on the local end of the robot. Even in an environment without a network, the product can complete basic intelligent judgments such as grass seed recognition and obstacle avoidance, thereby better protecting data privacy.
+
+　　The lawn mowing robots produced by Navimow Mainland, a subsidiary of Ninebot, have been exported to more than 30 countries and regions including Germany, France, the United States, the United Kingdom, and New Zealand. "The price of our new generation of intelligent lawn mowing robots Segway Navimow X series is much lower than the cost of traditional manual mowing in a year, saving users a lot of mowing costs." Li Ke, public relations manager of Ninebot, told reporters that the R&D team has significantly improved the positioning accuracy, mowing efficiency, and operation stability of the machine through technical innovations such as increasing the machine's driving speed, increasing the width of the blade, optimizing battery performance, reducing charging time, and configuring a 300-degree three-camera VSLAM system.
+
+　　"It can be said that it is the breakthroughs in technologies such as LiDAR and borderless navigation that have significantly improved the product performance of lawn mowing robots and greatly optimized the user experience. Many new lawn mowing robots now support remote control via mobile phone apps. Users can individually set mowing times and areas, and view real-time working status, maintenance reminders and other information." Wu Junliang said that the localization of components such as LiDAR has accelerated, reducing the cost of the entire machine and driving down product prices.
+
+　　Perfect industrial chain provides strong support
+
+　　In 2024, the overseas revenue and sales volume of Ecovacs lawn mower robots increased by 186.7% and 271.7% year-on-year respectively; Daye Co., Ltd. completed the acquisition of Germany's AL-KO company at the beginning of this year and added a new production base in Austria; Kuma Power launched the Mini version of the garden lawn mower robot at the Global Consumer Electronics Show (CES)... Today, Chinese companies are accelerating the expansion of overseas business of lawn mower robots.
+
+　　According to Qichacha data, by the end of May, there were 177 companies whose names, business scopes, brand products or patent keywords clearly included "mowing robots", with a large number of related companies in Suzhou, Shenzhen, Nanjing, Hangzhou, Changzhou and other places. In the interview, many industry insiders mentioned that the reason behind the popularity of domestic mowing robots overseas is actually the perfection of China's industrial system and the growing strength of its industrial supporting capabilities.
+
+　　Recently, Ying Xinsen, director of the General Manager's Office of Zhejiang Sanfeng Industrial Co., Ltd., has a busy schedule, with meetings about exports one after another. During the break, he introduced to our reporter some of the reasons why domestic lawn mower robots are popular overseas: precise positioning, obstacle avoidance perception, drive control, path planning and other technical modules are the key to the true automation and intelligence of lawn mower robots. China has excellent companies in a series of sub-sectors such as laser radar, intelligent algorithms, low-pulse motors, and multi-modal control.
+
+　　"A complete industrial chain and supply chain not only allows more room for product innovation, but also makes it easier to achieve industrialization and scale after finding the right path, thereby reducing costs as soon as possible." Ying Xinsen said that Zhejiang Sanfeng's mowing robot is equipped with a high-performance brushless motor and an adaptive cutting system, with a positioning accuracy of centimeters, and can automatically adjust the mowing speed and path according to the area and shape of the lawn. At present, the company's main products are priced at around 3,000 to 10,000 yuan, and are actively expanding overseas markets through channels such as the Canton Fair.
+
+　　In addition to relying on the domestic supply chain system, powerful cross-border e-commerce has also brought more growth points for products going overseas. For example, cross-border e-commerce such as AliExpress has the advantages of simplified cross-regional access, optimized transaction processes, and enhanced brand exposure, and is helping related companies expand their sales scope, accelerate technology upgrades, and establish brand image. "Our products can well meet user needs in terms of precise navigation, dynamic obstacle avoidance, edge cleaning, and remote control. The overseas sales of Anker E15 and E18 lawn mowing robots exceeded 4,000 units in the first month of listing. At present, we are also actively improving the localized warehousing network and intelligent logistics system, building a multi-dimensional service system, strengthening overseas delivery capabilities, and accumulating greater development momentum." Zhu Fanghao said.
+
+　　Experts believe that the lawn mower robot is a microcosm of the continuous upward and innovative development of China's manufacturing. As China's ties with the world economy become increasingly close, there will be more and more new products like "Made in China, best-selling around the world".

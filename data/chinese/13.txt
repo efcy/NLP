@@ -1,0 +1,110 @@
+title: 
+title_translation: Humanoid robots are evolving faster
+date: 
+author: 
+origin: china
+url: http://www.news.cn/tech/20250420/564dfbf2634249079707051a3fa39efd/c.html
+text:
+translation: On April 19, the world's first humanoid robot half marathon was held in Beijing. On the 21.0975-kilometer track, 20 robot teams from universities, research institutes, and enterprises participated in the first "human-robot co-run".
+
+  In the previous Spring Festival Gala of the Year of the Snake, more than 10 Yushu robots dressed in flowery cotton jackets took to the stage, dancing the Yangko dance and spinning handkerchiefs with real dancers, which attracted great attention from all parties. People exclaimed that humanoid robots have entered the lives of ordinary people.
+ Building a human-like machine is a long-standing dream of mankind. From the record of Yanshi making a "doll" in the ancient book "Liezi·Tangwen" to the birth of the world's first humanoid robot WABOT-1 at Waseda University in Japan in 1973, people have never stopped exploring humanoid robots. Over the past half century, the development of this industry has been ups and downs, and countries around the world have launched a variety of humanoid robots, but the overall development has been slow.
+
+  Why is the development of humanoid robots suddenly accelerating today?
+ "You can meet a humanoid robot every few steps." At the end of March, a guest attending the Zhongguancun Forum Annual Meeting said. During the annual meeting, nearly 100 humanoid robots from more than 10 companies were active in scenes such as welcoming guests, communicating, hosting, and performing.
+ In the more than two months since the Spring Festival, popular videos of humanoid robots have often appeared on social media, demonstrating stunts such as front flips, back flips, and bicycle riding, refreshing people's understanding of embodied intelligence.
+
+  Embodied intelligence is a new term that has entered the public eye in recent years. It emphasizes the close integration of intelligent systems and the body, and the realization of intelligent behavior through the interaction between the body and the environment. The concept that is different from it is disembodied intelligence, such as chatbots that have no physical body and rely entirely on computing and data processing to achieve intelligent behavior.
+
+  Humanoid robots are one of the typical application forms of embodied intelligence. At this year's National People's Congress, the government work report clearly stated that it would establish a mechanism for increasing investment in future industries and cultivate future industries including embodied intelligence.
+Some factories, universities, research institutes, artificial intelligence companies, etc. are taking the lead in using humanoid robots.
+
+  In a video recently released by UBTECH, two 1.72-meter-tall Walker S1 robots stood face to face at the Zeekr Automotive Factory. They nodded to each other at the same time, then opened their arms and worked together to carry a material box that was 1.2 meters long, 50 centimeters wide and 40 centimeters high.
+
+  "The work efficiency of robots is about 70% of that of skilled workers." Leng Xiaokun, founder of Leju Company, said that the robot "Kuafu" that has entered the car factory for training cannot do complex work undertaken by senior technicians such as driving precision screws, but can only do heavy, generalized and highly repetitive work, such as carrying boxes of different sizes, colors, weights and dimensions, and sorting spare parts of different shapes.
+
+  Yushu Technology, which has no plans to bring robots into factories, has recently launched new products on domestic and overseas e-commerce platforms such as JD.com and AliExpress. Yushu has two types of products: four-legged robot dogs are mainly for C-end consumers, and humanoid robots are mainly for developers.
+
+  Huang Jiawei, marketing director of Yushu, said that last year, Yushu humanoid robots were sold to more than 100 countries and regions, and the core users were universities, research institutes, technology AI companies, etc. Users do secondary development on Yushu hardware.
+
+  The industrial layout of humanoid robots is accelerating in many places across the country. At present, more than 10 local governments including Beijing, Shanghai, Shenzhen and Chongqing have established or are preparing to establish industrial funds.
+
+  In the investment community, the popularity of robotics companies is also increasing. According to data from IT Juzi, a data service provider for venture capital and emerging technology industries, in the first three months of this year, more than 50 companies in the embodied intelligence track received more than 6 billion yuan in financing.
+ In 1973, Waseda University launched the world's first full-size humanoid robot WABOT-1, which takes 45 seconds to walk each step. At the beginning of this century, Honda of Japan released the humanoid robot ASIMO, which can go up and down stairs. In 2013, Boston Dynamics of the United States released the humanoid robot Atlas, which has amazing athletic ability...
+
+  Despite several technological iterations, the humanoid robot industry was dormant until it began to accelerate in recent years. Why?
+ Wang Tianmiao, honorary director of the Robotics Institute of Beihang University, said that robot development has long been based on programming. In 2022, a large AI model will be released that can simulate the human brain and have capabilities such as generalization and migration, which will promote the development of a new species of humanoid robots.
+
+  Xiong Rong, director of the Zhejiang Humanoid Robot Innovation Center and professor at Zhejiang University, said that the traditional robotics research paradigm relies on mathematical modeling of human movement texture. Today, people can use large-scale data collection and neural network training to enable robots to master more implicit knowledge and draw inferences from one example.
+
+  It is also a consensus in the industry that artificial intelligence empowers robots.
+
+  In the view of Zhang Jin, president of Shenyang Siasun Robot & Automation Co., Ltd., the biggest force driving the development of humanoid robots is the new generation of artificial intelligence, which gives humanoid robots a "brain" and gradually acquires generalization capabilities.
+
+  Many experts interviewed mentioned a landmark event in the industry in 2022: Tesla officially released the humanoid robot Optimus. Musk showed a video of it moving boxes and grabbing metal bars in a car factory, and said it would be mass-produced.
+ Zhao Mingguo, director of the Robotics and Control Laboratory at Tsinghua University, observed that Tesla introduced the supply chain advantages of the automotive industry into the field of robotics, significantly reducing hardware costs.
+
+  Humanoid robots are mainly controlled by the "brain", "cerebellum" and "body". Take the example of letting a humanoid robot get a glass of water - to decompose instructions, identify the environment, and plan the path, the "brain" needs to have multi-level decision-making capabilities; to complete specific actions such as walking, taking, pouring, and handing over, the "cerebellum" needs precise control.
+
+  Some products unveiled this year have demonstrated the improvement of key robotics technologies. The Yushu robot that performed at the Spring Festival Gala was considered to have a "well-developed cerebellum" and demonstrated a high level of motion control. The "Huisi Kaiwu" platform released by the Beijing Humanoid Robot Innovation Center attempts to build a general software system that is compatible with multiple entities and multiple scenarios and has strong generalization capabilities.
+
+  The industry believes that the biggest bottleneck restricting the development of humanoid robots is still the "brain".
+
+  Zhang Weinan, deputy director of the School of Computer Science and executive dean of the School of Artificial Intelligence at Harbin Institute of Technology, said that in terms of "brain", there are no breakthrough products like large models at home and abroad. In terms of software, high-quality, large-scale data for cross-scenario use is relatively lacking. In terms of hardware, dedicated computing chips for machine brains need further research and development and popularization.
+
+  Xu Huazhe, co-founder of Xinghaitu AI and assistant professor at the School of Interdisciplinary Information Sciences at Tsinghua University, focuses on the basic large-scale model of embodied intelligence. He used cooking as an example to describe the level that an ideal robot "brain" can achieve.
+
+  "I want the robot to cook a squirrel mandarin fish because it is difficult to operate - the fish is alive, slippery and sticky, and has granular scales. Not only do you have to deal with live fish, but you also have to know how to cut, fry, stir-fry sugar color, pour sauce, and arrange the dish." Xu Huazhe said that it will take at least a dozen years before people can eat this dish made by a robot.
+
+  Recently, videos of humanoid robots serving tea and threading needles on grapes have been widely circulated on social media, leading many people to believe that they will soon be able to buy a robot to serve as a babysitter. However, many industry experts are cautious about this.
+
+  Zhang Rui, founder of Beijing Iron Man Technology Co., Ltd., and his team were selected to participate in the Chinese Astronaut Humanoid Robot Project in 2021. He admitted that compared to going into space, it is more difficult and takes longer for humanoid robots to enter the home. Because the home is a complex environment - there may be elderly people, children, cats and dogs; the flatness and friction of different floors are different, and there is a risk of humanoid robots tipping over when walking. He believes that humanoid robots entering homes in the future cannot be a stack of existing mechanical and electronic structures, but must use new materials to form a new generation of muscles and bones.
+
+  In Leng Xiaokun's view, humanoid robots that will enter households in the future must be as cheap as household appliances and as smart as robots. He said that it is only a matter of time before the cost of robots is reduced, but how to apply AI intelligence to the main body is a difficult point in research.
+
+  The first phase of the factory of Shanghai Zhiyuan Xinchuang Technology Co., Ltd. is located in an industrial park at the junction of Shanghai Lingang and Fengxian Districts. It is known in the industry as the first mass production factory of humanoid robots in Shanghai. In January this year, the 1,000th universal embodied robot rolled off the production line. The factory is divided into two floors, the first floor is for production and assembly, and the second floor is for whole machine testing.
+
+  "Just like a human has more than 200 bones, the bipedal humanoid robot A2 has more than 400 parts." Yao Maoqing, partner of Zhiyuan and president of the embodied business department, said that the robot is not finished after being assembled, but just the beginning. In order to avoid unstable walking or falling in the future, it must go through one sub-item test after another, such as squatting with a single leg load of 30 kilograms, which must be tested more than 2,000 times.
+  In addition to humanoid robot start-ups, there are two other types of companies that are involved in the research and development of humanoid robots: one is leading technology companies, such as Huawei, iFlytek, etc., which approach from the perspective of artificial intelligence and provide "intelligence" for robots; the other is new energy vehicle companies, such as Xiaopeng and Xiaomi, which are mainly based on the migration of humanoid robots and smart cars in the supply chain of batteries, chips, sensors, etc., and have similarities in the application of autonomous driving technology and AI models.
+
+  "Although humanoid robots first appeared abroad, they are most likely to be truly industrialized in China, because China has a very complete industrial chain, and all the necessary core components and technologies are researched by teams." Zhang Jin said that some focus on making the "brain", some are good at making feet, arms, etc., and everyone will work together to form a complete and healthy industrial ecology.
+
+  He Xiaopeng, founder of Xpeng Motors, said that the company is currently focusing on developing large models of the physical world required for the "brain". The current humanoid robot is close to the initial stage of L2 autonomous driving, and it is hoped that L3 capabilities that can be mass-produced and have commercial value will be achieved as soon as possible.
+ The acceleration of the humanoid robot industry is also due to the development of my country's robotics industry over the past few decades, which has accumulated a large number of technologies and customers in the fields of industry, services, etc. Last year, the sales volume of my country's industrial robot market exceeded 290,000 units, with the highest degree of application in the automotive and electronics industries.
+
+  Wu Fengli, founder of Guangdong Topstar Technology Co., Ltd., which specializes in industrial robots, said: "The confidence to make humanoid robots in the future lies in the fact that the company already has more than 200,000 manufacturing customers, and the humanoid robot products developed can be used by existing customers as soon as possible."
+
+  Zhang Jin said that SIASUN has been focusing on industrial robots for more than 20 years and has accumulated rich industrial knowledge and experience. Once a large number of application scenarios of humanoid robots appear in the industrial field, the company's humanoid robot team can quickly follow up.
+
+  The industry believes that the engineer bonus is one of the important advantages of my country in developing humanoid robots. my country has cultivated the world's largest and most complete engineering team. In 2016, the Ministry of Education approved "Robotics Engineering" as an undergraduate major. So far, more than 300 universities have opened undergraduate majors in Robotics Engineering.
+
+  At the policy level, both the national and local governments have clearly accelerated deployment. The "Guiding Opinions on the Innovation and Development of Humanoid Robots" issued by the Ministry of Industry and Information Technology in 2023 proposed that humanoid robots are expected to become disruptive products after computers, smartphones, and new energy vehicles. In the "Implementation Opinions on Promoting the Innovation and Development of Future Industries" issued by seven departments last year, humanoid robots ranked first in the "Innovation Iconic Products" column. In recent years, Beijing, Shanghai, Shenzhen, Hangzhou and other places have introduced supporting policies.
+
+  The path to the future of humanoid robots has become increasingly clear. Artificial intelligence + advanced manufacturing are putting China at the forefront of the world's robotics revolution.
+ In which fields will humanoid robots be used first?
+
+  The guiding opinions of the Ministry of Industry and Information Technology put forward three scenarios: serving the needs of special fields, creating typical scenarios for the manufacturing industry, and accelerating promotion in people's livelihood and key industries.
+
+  Experts say that some operations with harsh conditions and dangerous scenes, such as civil explosions and rescue operations, require humanoid robots to reduce the danger of work. Although manufacturing is an important scene, humanoid robots are currently only responsible for simple tasks and are less efficient than ordinary workers.
+
+  The industry generally believes that if humanoid robots are to be put into more widespread real-world applications, they must first enter "vocational skills training schools."
+ The data collection center of Shanghai Zhiyuan Robotics is such a school. In a space of about 4,000 square meters, hundreds of data collectors wear VR glasses and hold operating handles to teach robots how to do housework - folding clothes, clearing dishes, pouring tea, and cashiering in supermarkets... Each action requires the robot to repeat hundreds of times.
+
+  Peng Zhihui, founder of Zhiyuan, explained that unlike the text, pictures, videos and other data required by large language models, robots need to interact with tangible objects in the three-dimensional world. This kind of data cannot be obtained from the Internet and can only be obtained by investing a lot of manpower and material resources to collect massive amounts of real robot interaction data.
+
+  At the same time, the national and local jointly built humanoid robot innovation centers in Beijing and Shanghai have also established humanoid robot "technical schools".
+
+  Leng Xiaokun believes that these training grounds abstract the scenes of actual production and life, complete tasks through manual operation of robots, collect multi-dimensional data, and then input the data into the embodied intelligent model. After the model is mature, it will be deployed to the robot to enable it to acquire new skills. This is the core work of the development of humanoid robots in the next few years.
+
+  Many people are worried that "their jobs will be taken away by humanoid robots." In this regard, a factory manager told reporters that they recruited about 900 people the year before last, more than 450 people last year, and only a little over 300 people this year. There are still many vacancies and there are indeed some jobs that lack people to do.
+
+  Xiong Rong said that if humanoid robots are used on a large scale, they can replace humans in dangerous, repetitive and boring work, and are expected to solve the problem of labor shortage in future society.
+
+  In the future, humanoid robots will bring great convenience to human work and life, but may also bring challenges to the original social order.
+
+  People worry that robots may get out of control at any time, that human rights may be violated without their knowledge, and that the actions of robots cannot be traced or held accountable.
+ Wang Tianran, an academician of the Chinese Academy of Engineering and an expert in robotics and industrial automation, believes that the way these problems are solved directly determines the public's acceptance of robots and their technologies. How to constrain the behavior of robots should be a concern for robot designers, manufacturers, users and even social managers.
+
+  Professor Liu Zhe of Peking University believes that although it is still a long way to go for humanoid robots to have the same autonomy as humans, their autonomy will bring multiple ethical dilemmas to human society. Therefore, when conducting ethical governance, not only should there be ethical considerations in the design of robots, but there should also be an ethical framework with social consensus.
+
+  This dance between humans and machines has just begun, and its steps will determine the rhythm of the future of civilization.

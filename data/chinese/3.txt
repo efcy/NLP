@@ -1,0 +1,45 @@
+title: 在北京，机器人“闯”出大世界
+title_translation: In Beijing, robots are making their way into the world
+date: 
+author: 
+origin: china
+url: http://finance.people.com.cn/n1/2025/0623/c460638-40506796.html
+text: 开栏的话 2025年是“十四五”规划收官之年。从科技创新高地到乡村振兴一线，从生机勃然的碧水青山到韧劲十足的外贸企业，高质量发展的脉搏在神州大地蓬勃跃动，为今日中国注入新的生机与活力。即日起本报推出“活力中国调研行”，多路记者将奔赴各地区各行业，以脚步丈量神州热土，用镜头记录奋进征程，和您共同见证科技创新点燃的星星之火，聆听降碳减污、新绿破土的澎湃交响，一览城乡融合发展的壮阔图景，感受中国式现代化的万千气象……
+
+调研不仅是观察，更是思考。通过一线走访、对话专家与数据解析，我们还将和您一起观察普通人的奋斗如何汇聚成时代洪流，思考新时代的中国何以能在全球大变局中稳舵前行，共同解码高质量发展的“活力密码”。敬请关注。
+
+哨声响起，主罚任意球的“前锋”果断出脚，足球划出一道漂亮的“圆月弯刀”，越过“人墙”直挂球门远角得分……这一幕并非出自大洋彼岸正在进行的国际足联俱乐部世界杯赛事，而是来自北京亦庄的机器人足球赛场。负责罚球和防守的“球员”，都是由中国团队开发的机器人。
+“去年，机器人还只能把球踢起来15厘米；如今，机器人已经能完成这样一个完整漂亮的罚球动作。这是近几年机器人技术突飞猛进的一个体现。”6月17日，在“活力中国调研行”北京市主题采访活动上，北京加速进化科技有限公司创始人兼首席执行官程昊介绍了企业的最新成果。
+
+坐落于亦庄机器人产业园47号楼的“机器人大世界”是一座全品类机器人展示中心，里面的展品证明了程昊所言非虚：过去10年间，每年问世的代表性机器人产品在功能和性能上都实现了显著突破。这里展示的一批机器人，包括全国首个人形机器人通用母平台“天工”、宇树科技人形机器人G1、钛虎机器人的T170A“墨翟”以及优必选Walker S等，正是北京市机器人产业创新能力的集中体现。
+
+随着功能拓展与性能提升，机器人的身影已经越来越多地出现在工厂、药房、仓库、球场等多种场景中，一步步走进人们的生产生活。
+
+“机器人半马让我们成功‘出圈’，今年6月，我们的N2机器人订单量已突破1000台。”松延动力（北京）科技有限公司创始人兼董事长姜哲源感慨，机器人不断解锁的全新可能性，已经被越来越多人看见。
+
+姜哲源说，企业今年3月正式入驻昌平未来星科能源谷智造产业园，得益于该区完善的产业配套政策与空间培育体系，企业仅用3个月便具备了批量化生产能力。
+
+为了让机器人企业更有“闯劲”，北京市推出一系列重点扶持举措。北京市经济和信息化局智能制造与装备产业处副处长梁洪郡介绍，北京市财政出资设立百亿级机器人产业发展基金，协同国内知名投资机构密集布局，形成了覆盖早期研发、中试生产到场景应用的全链条投资格局。同时，北京市整合产业资源，组建了医疗机器人产业创新中心、中关村机器人产业创新中心以及国内首个人形机器人创新中心，并持续打造健全的公共服务体系。
+梁洪郡说，2023年以来，北京市已推动199种创新产品在134种场景实现应用落地，覆盖工业制造业、商业服务、教育、医疗、农业、园林等11个领域。
+
+在北京，人形机器人创新产品已经率先在特种危险作业、物流分拣、无人零售等场景批量应用。越来越广阔的世界，正在向机器人打开大门。
+translation:
+Opening remarks 2025 is the final year of the 14th Five-Year Plan. From the highland of scientific and technological innovation to the front line of rural revitalization, from the vibrant green mountains and clear waters to the resilient foreign trade enterprises, the pulse of high-quality development is vigorous in China, injecting new vitality into today's China. Starting today, our newspaper will launch the "Vibrant China Research Tour". Many reporters will go to various regions and industries to measure the land of China with their footsteps, record the journey of progress with their cameras, and witness with you the sparks ignited by scientific and technological innovation, listen to the surging symphony of carbon reduction and pollution reduction, and the breaking of new green ground, take a look at the magnificent picture of urban and rural integrated development, and feel the myriad atmospheres of Chinese-style modernization...
+
+Research is not only about observation, but also about thinking. Through frontline visits, dialogues with experts and data analysis, we will also observe with you how the struggles of ordinary people converge into the torrent of the times, think about how China in the new era can steer steadily forward in the midst of global changes, and jointly decode the "vitality code" of high-quality development. Please stay tuned.
+
+The whistle blew, and the "striker" who took the free kick kicked decisively. The football drew a beautiful "crescent-shaped scimitar", passed the "human wall" and went straight to the far corner of the goal to score... This scene did not come from the FIFA Club World Cup on the other side of the ocean, but from the robot football field in Yizhuang, Beijing. The "players" responsible for free kicks and defense are all robots developed by the Chinese team.
+"Last year, the robot could only kick the ball 15 centimeters high; now, the robot can complete a complete and beautiful free throw. This is a reflection of the rapid progress of robotics technology in recent years." On June 17, at the "Vibrant China Research Tour" Beijing theme interview event, Cheng Hao, founder and CEO of Beijing Accelerated Evolution Technology Co., Ltd., introduced the company's latest achievements.
+
+The "Robot World" located in Building 47 of Yizhuang Robot Industrial Park is a full-category robot exhibition center. The exhibits inside prove that what Cheng Hao said is true: in the past 10 years, the representative robot products launched every year have achieved significant breakthroughs in function and performance. The robots on display here, including the country's first universal mother platform for humanoid robots "Tiangong", Yushu Technology's humanoid robot G1, Titanium Tiger Robot's T170A "Mozi" and UBTECH's Walker S, are the concentrated embodiment of Beijing's robot industry innovation capabilities.
+
+With the expansion of functions and improvement of performance, robots have appeared more and more frequently in various scenarios such as factories, pharmacies, warehouses, and stadiums, gradually entering people's production and life.
+
+"The robot half marathon has helped us break out of the circle. In June this year, the order volume for our N2 robots exceeded 1,000 units." Jiang Zheyuan, founder and chairman of Songyan Power (Beijing) Technology Co., Ltd., said with emotion that the new possibilities constantly unlocked by robots have been seen by more and more people.
+
+Jiang Zheyuan said that the company officially moved into the Changping Future Star Energy Valley Intelligent Manufacturing Industrial Park in March this year. Thanks to the district's complete industrial supporting policies and space cultivation system, the company acquired mass production capabilities in just three months.
+
+In order to make robot companies more aggressive, Beijing has launched a series of key support measures. Liang Hongjun, deputy director of the Intelligent Manufacturing and Equipment Industry Department of the Beijing Municipal Bureau of Economy and Information Technology, introduced that Beijing’s fiscal funds have set up a 10 billion-level robot industry development fund, and intensively deployed with well-known domestic investment institutions to form a full-chain investment pattern covering early research and development, pilot production and scene application. At the same time, Beijing has integrated industrial resources, established the Medical Robot Industry Innovation Center, the Zhongguancun Robot Industry Innovation Center and the first humanoid robot innovation center in China, and continued to build a sound public service system.
+Liang Hongjun said that since 2023, Beijing has promoted the application of 199 innovative products in 134 scenarios, covering 11 fields including industrial manufacturing, commercial services, education, medical care, agriculture, and gardening.
+
+In Beijing, innovative humanoid robot products have been first used in batches in special dangerous operations, logistics sorting, unmanned retail and other scenarios. The world is opening its doors to robots.

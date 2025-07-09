@@ -1,0 +1,104 @@
+title: 工业机器人，迈向“全能选手”
+title_translation: Industrial robots, moving towards becoming “all-rounders”
+date: 
+author: 
+origin: china
+url: http://sc.people.com.cn/n2/2025/0523/c345167-41237285.html
+text: 湖北荆州，美的洗衣机工厂迎来美的人形机器人，从事巡检、机器运维、设备检修等工作；德国汉诺威，上海节卡智能协作机器人亮相工业博览会，展示了轻捏薯片级别的控制能力，引得众多观众体验；北京极智嘉的机器人智能仓储系统打入西门子等全球大客户供应链……今天，中国的工业机器人产品已在千行百业深度应用、不断成长。
+
+　　从单机作业到集群协同，从执行终端到决策中枢，从简单拼装到全面国产化……通过技术创新、场景融合、人工智能赋能，工业机器人正从传统简单的机械臂升级为集群协同、智能决策、全链自主、多域赋能的“全能选手”。
+
+　　核心技术持续突破，国产重载机器人蓄势待发
+
+　　转体、伸展、挥舞手臂……走进美的蓝橙实验室（高端重载机器人全国重点实验室），一台台橙色的库卡六轴工业机器人，抓举着不同重量的“杠铃”，不知疲倦地做着“托马斯全旋”。“这是在做重载机器人整机耐久寿命测试。”实验室主任助理脱立恒博士告诉记者，这些机器人大都采用了全国产的减速机、伺服电机等核心零部件。
+
+　　实验室里，一台粗壮的铁灰色大型工业机器人格外醒目。脱立恒告诉记者，这台高刚度、高精度、高可靠性的工业机器人是库卡自主研发的最新科技成果，“尽管负载是500公斤级，但整机精度刚度较传统机型提升了3倍。”
+
+　　“当前，机器人技术正从传统工业领域迈向广阔应用市场。尤其是在高端制造、航空航天、能源医疗等战略产业中，高刚、高精、高可靠性重载机器人作为核心装备的重要性日益凸显。”库卡中国企业业务总经理陈峰说，从2015年到2025年，负载300公斤及以上六轴工业机器人的市场规模增长了10倍。
+
+　　2017年收购德国库卡后，美的在共性技术和重载机器人关键零部件上加大研发投入，已实现减速机、伺服电机与驱动控制三大核心部件国产化。聚焦重载机器人全面自主化，美的蓝橙实验室突破重载RV减速器、重载伺服电机、全新架构控制器等核心功能部件关键技术，开发出抗干扰运动刚度模型，有效解决了重载机器人在精度和刚度方面的难题。
+
+　　在重载工业机器人领域，我国企业正在实现群体突破。埃斯顿推出700公斤级工业机器人，可广泛应用于重工装备、汽车、建材等行业；埃夫特最新款重载机器人，2024年已实现百台以上批量销售；广州数控最大负载量500公斤的系列重载机器人，已成功通过我国强制性产品认证。
+
+　　“我国工业机器人产业已经从核心部件进口，转入部分国产自制阶段，正朝着完全国产自制加速迈进。”陈峰坚信，未来两年内，搭载国产RV减速器、伺服电机、控制器，并且在精度、可靠性上比肩国际知名品牌的国产重载工业机器人将实现批量应用。
+
+　　打破国际品牌市场垄断，在高端场景应用上实现规模替代
+
+　　走进广汽领程重型卡车制造基地的驾驶室焊接车间，6台黄色埃斯顿点焊机器人正协同作业——机械臂灵活翻转，焊枪在驾驶室骨架间快速起落，溅起细密的焊花。经过优化设计，每台机器人通过自动工具更换系统实现搬运与焊接任务快速切换，效率大幅提升。每小时5台的生产节拍下，焊点重复精度稳定控制在±0.08毫米，合格率持续保持100%。
+
+　　“过去，工厂内的机器人清一色用的是国际品牌，但这次我们坚定选择国产。”广汽领程制造中心部长杜式斌告诉记者，在选定供应商前，技术团队曾请多家供应商进行试焊，发现埃斯顿机器人的焊接质量不逊于一些进口设备，价格还更具优势。
+
+　　更关键的是，埃斯顿还具备根据细分应用场景提供定制化解决方案的能力。“埃斯顿还将控制系统的一些核心程序开放给我们，双方共同开发关于驾驶室焊接线的优化程序，并实现知识产权共享。”杜式斌说。
+
+　　在车用弧焊机器人领域取得突破的还有埃夫特。在比亚迪合肥工厂焊装车间，近200台埃夫特ARC系列弧焊机器人在前后副车架焊装工位协同作业。“这些搭载自研抖动抑制算法的国产机器人，焊接重复定位精度稳定控制在±0.03毫米，完全对标国际一线品牌作业标准。”比亚迪合肥工厂有关负责人介绍，截至目前，比亚迪在八大基地累计部署埃夫特弧焊机器人近千台。
+
+　　“弧焊机器人国产化不是简单的替代，而是从工艺包、核心部件到控制系统的全栈创新。”埃夫特智能机器人股份有限公司董事长兼总经理游玮举例说，埃夫特此番突破高性能弧焊机器人及其部件/软件关键核心技术，形成了系列化拥有完全自主知识产权的高精密RV减速机产品、专用润滑油/脂、高性能专用伺服电机、应用工艺包和操作系统，整体性能达到国际先进水平，自主化率超过96%，部分实现100%自主可控。
+
+　　在高端场景应用上实现对国际品牌的规模替代，得益于国产工业机器人精度、可靠性、耐久性的提升。日前，国家重点研发计划“智能机器人”重点专项“自主智能弧焊机器人技术与系统”项目已经启动。由埃夫特牵头的这个新项目，焊接机器人精度能到0.5毫米，焊接智能化水平将迈上新台阶。
+
+　　在高端场景实现突破的同时，我国工业机器人应用也在向广度延展。统计显示，2024年我国工业机器人产量55.64万台，同比增长14.2%。国际机器人联合会最新数据显示，2023年中国新安装27.6万台工业机器人，占全球安装总量的51%。继汽车、3C电子行业后，新能源、卫浴陶瓷、金属加工、家具家电等通用工业领域开始成为中国工业机器人的新增市场主力。
+
+　　人工智能加速融合，从“单机智能”到“群体智能”
+
+　　在山东邹城珞石智能制造产业园，一台搭载力觉与视觉传感器的协作机器人正精准演示电脑USB接口装配。机械臂如同被赋予人类触觉与视觉，在插接过程中实时感知接触力，动态调整角度与力度，展现出“斜触修正”“二次对位”等拟人化操作。
+
+　　“这款机器人融合了力控搜索与视觉伺服技术，可胜任微米级精密装配。”珞石机器人创始人兼首席执行官庹华介绍，2023年起，公司实施“机器人+AI”战略，通过人工智能技术增强机器人的感知决策能力，在3C电子、汽车零部件等领域实现突破性应用，“底层控制技术与AI的深度融合是智能升级的关键。”
+
+　　在一座海外大型仓库内，700台北京极智嘉科技股份有限公司的自主移动机器人以每秒2米的速度穿梭于2万平方米的立体空间中。它们与40个多功能工作站协同作业，将传统“人找货”模式彻底颠覆——货架自动流转至工作站，机械臂精准抓取商品，自主移动机器人沿动态规划的路径快速运输，整个仓库日均处理超35万件货物，单个工作站峰值效率达500件/小时。
+
+　　“这里没有固定的作业分区，企业对企业（B2B）和企业对消费者（B2C）订单混合处理，服装、电子等全品类商品共用存储空间。”极智嘉首席技术官李洪波解释道，通过“混合存储算法”和“动态路径规划系统”，机器人集群可实时调整任务优先级、避免拥堵，更可灵活调整运营规模，轻松应对促销活动期间的需求高峰。
+
+　　突破群体智能控制、动态路径规划等技术，推动工业移动机器人从“单机智能”向“系统智能”跃迁，让极智嘉具备了单系统调度超5000台机器人的技术能力，并在全球建成10余个“千台级”机器人智能仓库示范项目，在智能仓储领域连续6年保持全球市场占有率第一，海外业务收入占比超过75%。
+
+　　工业机器人与人工智能深度融合，通过自适应环境感知、持续自学习优化和类人决策能力，实现柔性生产与智能协作，大幅提升制造效率与灵活性，是推动智能制造的重要驱动力。
+
+　　谈及“人工智能+工业机器人”的发展潜力，陈峰提供了另一个视角。“目前，我国工业机器人市场容量约30万台，其商业模式是定制化开发，专业人员安装、调试，甚至是陪工陪产。如果将来市场容量达到每年100万台，对安装、调试、运维人员的需求将大幅增长。”陈峰说，工业机器人出厂自带人工智能，开箱即用、一键安装、预测性维护都是市场需求，也将变为现实。
+translation: In Jingzhou, Hubei, Midea's washing machine factory welcomed Midea's humanoid robots, which are engaged in inspection, machine operation and maintenance, equipment repair and other tasks; in Hanover, Germany, Shanghai Jieka intelligent collaborative robots made their debut at the Industrial Expo, demonstrating control capabilities at the level of lightly pinching potato chips, attracting many visitors to experience it; Beijing Geek+'s robot intelligent warehousing system has entered the supply chain of global major customers such as Siemens... Today, China's industrial robot products have been deeply applied in thousands of industries and are constantly growing.
+
+　　From stand-alone operation to cluster collaboration, from execution terminals to decision-making centers, from simple assembly to full localization... Through technological innovation, scene integration, and artificial intelligence empowerment, industrial robots are upgrading from traditional simple robotic arms to "all-round players" with cluster collaboration, intelligent decision-making, full-chain autonomy, and multi-domain empowerment.
+
+　　With continuous breakthroughs in core technologies, domestic heavy-duty robots are ready to go
+
+　　Turning, stretching, waving arms... Walking into Midea's Blue Orange Laboratory (National Key Laboratory for High-end Heavy-duty Robots), orange Kuka six-axis industrial robots are lifting "barbells" of different weights and tirelessly performing "Thomas full spins". "This is a test of the durability of the heavy-duty robot." Dr. Tuo Liheng, assistant to the laboratory director, told reporters that most of these robots use core components such as reducers and servo motors made in China.
+
+　　In the laboratory, a sturdy iron-gray large industrial robot is particularly eye-catching. Tuo Liheng told reporters that this high-rigidity, high-precision, and high-reliability industrial robot is the latest scientific and technological achievement independently developed by KUKA. "Although the load is 500 kilograms, the precision and rigidity of the whole machine are three times higher than those of traditional models."
+
+　　"At present, robotics technology is moving from traditional industrial fields to a broad application market. Especially in strategic industries such as high-end manufacturing, aerospace, energy and medicine, the importance of high-rigidity, high-precision and high-reliability heavy-load robots as core equipment is becoming increasingly prominent." Chen Feng, general manager of Kuka China's corporate business, said that from 2015 to 2025, the market size of six-axis industrial robots with a load of 300 kilograms and above has increased tenfold.
+
+　　After acquiring Germany's Kuka in 2017, Midea has increased its R&D investment in common technologies and key components of heavy-duty robots, and has achieved localization of three core components: reducers, servo motors, and drive controls. Focusing on the full autonomy of heavy-duty robots, Midea's Blue Orange Laboratory has made breakthroughs in key technologies of core functional components such as heavy-duty RV reducers, heavy-duty servo motors, and new architecture controllers, and developed an anti-interference motion stiffness model, effectively solving the problems of heavy-duty robots in terms of accuracy and stiffness.
+
+　　In the field of heavy-duty industrial robots, Chinese companies are making collective breakthroughs. Estun has launched a 700 kg industrial robot that can be widely used in heavy equipment, automobiles, building materials and other industries; Efort's latest heavy-duty robot has achieved batch sales of more than 100 units in 2024; Guangzhou CNC's series of heavy-duty robots with a maximum load of 500 kg have successfully passed my country's mandatory product certification.
+
+　　"my country's industrial robot industry has shifted from importing core components to partially domestically produced products, and is accelerating towards complete domestic production." Chen Feng firmly believes that in the next two years, domestic heavy-duty industrial robots equipped with domestic RV reducers, servo motors, and controllers, and that are comparable to internationally renowned brands in terms of precision and reliability, will be put into mass production.
+
+　　Break the market monopoly of international brands and achieve scale substitution in high-end scene applications
+
+　　Walking into the cab welding workshop of GAC Lingcheng heavy truck manufacturing base, six yellow Estun spot welding robots are working together - the robotic arms flip flexibly, and the welding guns rise and fall quickly between the cab frames, splashing fine welding sparks. After optimized design, each robot can quickly switch between handling and welding tasks through an automatic tool change system, greatly improving efficiency. At a production rate of 5 units per hour, the repetitive accuracy of the welds is stably controlled at ±0.08 mm, and the qualified rate continues to remain at 100%.
+
+　　"In the past, all the robots in the factory were international brands, but this time we firmly chose domestically made ones." Du Shibin, director of GAC Lingcheng Manufacturing Center, told reporters that before selecting a supplier, the technical team had asked several suppliers to conduct trial welding and found that the welding quality of Estun robots was not inferior to some imported equipment, and the price was even more advantageous.
+
+　　More importantly, Estun also has the ability to provide customized solutions based on segmented application scenarios. "Estun also opened some core programs of the control system to us, and the two sides jointly developed optimization programs for the cab welding line and shared intellectual property rights," said Du Shibin.
+
+　　Another company that has made breakthroughs in the field of automotive arc welding robots is Efort. In the welding workshop of BYD Hefei Factory, nearly 200 Efort ARC series arc welding robots work together in the welding stations of the front and rear subframes. "These domestic robots equipped with self-developed jitter suppression algorithms have a stable welding repetitive positioning accuracy of ±0.03 mm, which is completely in line with the operating standards of international first-tier brands." A relevant person in charge of BYD Hefei Factory introduced that as of now, BYD has deployed nearly 1,000 Efort arc welding robots in eight major bases.
+
+　　"The localization of arc welding robots is not a simple replacement, but a full-stack innovation from process packages, core components to control systems." You Wei, chairman and general manager of Efort Intelligent Robot Co., Ltd., gave an example, saying that Efort has made breakthroughs in the key core technologies of high-performance arc welding robots and their components/software, and has formed a series of high-precision RV reducer products, special lubricants/greases, high-performance special servo motors, application process packages and operating systems with completely independent intellectual property rights. The overall performance has reached the international advanced level, the autonomy rate exceeds 96%, and some have achieved 100% autonomy and control.
+
+　　The large-scale replacement of international brands in high-end scene applications is due to the improvement of the precision, reliability and durability of domestic industrial robots. Recently, the "Autonomous Intelligent Arc Welding Robot Technology and System" project, a key special project of the National Key R&D Program "Intelligent Robots", has been launched. This new project led by EFORT can achieve a welding robot precision of 0.5 mm, and the level of intelligent welding will reach a new level.
+
+　　While achieving breakthroughs in high-end scenarios, the application of industrial robots in my country is also expanding in breadth. Statistics show that my country's industrial robot output will reach 556,400 units in 2024, a year-on-year increase of 14.2%. The latest data from the International Federation of Robotics shows that China will install 276,000 new industrial robots in 2023, accounting for 51% of the global total. Following the automotive and 3C electronics industries, general industrial fields such as new energy, sanitary ceramics, metal processing, furniture and home appliances have begun to become the new market mainstay of China's industrial robots.
+
+　　Artificial intelligence is accelerating its integration, from "single machine intelligence" to "group intelligence"
+
+　　In Shandong Zoucheng Luoshi Intelligent Manufacturing Industrial Park, a collaborative robot equipped with force and vision sensors is accurately demonstrating the assembly of a computer USB interface. The robot arm is endowed with human touch and vision. During the plug-in process, it senses the contact force in real time, dynamically adjusts the angle and force, and demonstrates anthropomorphic operations such as "oblique touch correction" and "secondary alignment".
+
+　　"This robot combines force control search and visual servo technology, and is capable of micron-level precision assembly." Tuo Hua, founder and CEO of Luoshi Robotics, introduced that starting from 2023, the company will implement the "Robot + AI" strategy, enhance the robot's perception and decision-making capabilities through artificial intelligence technology, and achieve breakthrough applications in 3C electronics, automotive parts and other fields. "The deep integration of underlying control technology and AI is the key to intelligent upgrading."
+
+　　In a large overseas warehouse, 700 autonomous mobile robots from Beijing Geek+ Technology Co., Ltd. shuttled through a 20,000 square meter space at a speed of 2 meters per second. They worked in collaboration with 40 multifunctional workstations, completely overturning the traditional "people looking for goods" model - shelves automatically flowed to workstations, robotic arms accurately grabbed goods, and autonomous mobile robots quickly transported goods along dynamically planned paths. The entire warehouse processed more than 350,000 pieces of goods per day, and the peak efficiency of a single workstation reached 500 pieces per hour.
+
+　　"There are no fixed work partitions here. Business-to-business (B2B) and business-to-consumer (B2C) orders are processed together, and all categories of goods such as clothing and electronics share storage space." Geek+ Chief Technology Officer Li Hongbo explained that through the "hybrid storage algorithm" and "dynamic path planning system", the robot cluster can adjust task priorities in real time to avoid congestion, and can flexibly adjust the scale of operations to easily cope with demand peaks during promotional activities.
+
+　　Breakthroughs in technologies such as swarm intelligent control and dynamic path planning have promoted the transition of industrial mobile robots from "single-machine intelligence" to "system intelligence", enabling Geek+ to have the technical capability to dispatch more than 5,000 robots with a single system. It has also built more than 10 "thousand-unit-level" robot smart warehouse demonstration projects around the world, maintaining the top global market share in the field of smart warehousing for six consecutive years, with overseas business revenue accounting for more than 75%.
+
+　　The deep integration of industrial robots and artificial intelligence enables flexible production and intelligent collaboration through adaptive environmental perception, continuous self-learning optimization, and human-like decision-making capabilities, greatly improving manufacturing efficiency and flexibility, and is an important driving force for promoting intelligent manufacturing.
+
+　　Chen Feng provided another perspective on the development potential of "artificial intelligence + industrial robots". "At present, the market capacity of industrial robots in my country is about 300,000 units, and its business model is customized development, installation and debugging by professionals, and even accompanying workers and production. If the market capacity reaches 1 million units per year in the future, the demand for installation, debugging, and operation and maintenance personnel will increase significantly." Chen Feng said that industrial robots come with artificial intelligence when they leave the factory, and out-of-the-box, one-click installation, and predictive maintenance are all market demands and will become a reality.

@@ -1,0 +1,61 @@
+title: 
+title_translation: Robots are accelerating their pace in manufacturing, with a density of 392 units per 10,000 people
+date: 
+author: 
+origin: china
+url: http://ah.people.com.cn/n2/2023/1206/c227131-40667697.html
+text:
+translation: Humanoid robots, lined up in a square formation, danced flexibly, their movements were well-organized and in unison; mechanical arms, playing games and passing levels, were as steady as a rock...
+
+On December 5, outside the venue of the 2023 China Robot Industry Development Conference, various robots showed off their skills on site. Many new technologies, new products, and new applications in the field of robotics added a technological touch to the conference.
+
+The China Robot Industry Development Conference is a national industry conference hosted by the Robotics Branch of the China Machinery Industry Federation. It has been successfully held for 11 sessions since 2012. This year is the second time that the venue has been held in Wuhu after a lapse of 7 years.
+
+The robotics industry is not only an emerging industry that integrates mechanical control, new generation information and communication technology, and artificial intelligence, but also a key industry supporting the digital and intelligent transformation of manufacturing and service industries.
+In people's traditional impression, robots are mostly used for simple tasks such as handling, spraying, and assembly. However, as robot technology is updated, its application scenarios are becoming more and more diversified.
+
+Wang Hong, deputy director of the Equipment Industry Department of the Ministry of Industry and Information Technology, introduced that in recent years, industrial robots have shown a series of development, from high-speed, high-precision to high-load, high-reliability products have been launched, and the industrialization process of service and special robots has accelerated. In 2023 alone, 43 surgical robot products and systems have obtained medical device registration certificates from the National Medical Products Administration.
+
+Among them, emerging industries such as new energy vehicles, lithium batteries, and photovoltaics are developing rapidly; traditional industries such as sanitary ware, ceramics, and hardware are accelerating their transformation; special needs such as fire fighting, drainage, search and rescue, and major projects such as the Hong Kong-Zhuhai-Macao Bridge are driving the application of special robots.
+
+In addition to manufacturing, robots in the service sector are also shining. A large number of service robots are employed in catering, tour guiding, logistics and other fields.
+
+As of now, the number of industrial robots in service in my country has exceeded 1.5 million, accounting for more than one-third of the global total, and the density of manufacturing robots has reached 392 units per 10,000 people.
+
+The rapid development of the robotics industry has injected new impetus into promoting the digitalization, networking and intelligent development of the manufacturing industry, provided new paths, and profoundly changed the manufacturing industry's production methods and industrial ecology.
+
+According to statistics, in 2022, my country's industrial robot production reached 443,000 units, a year-on-year increase of 21%. The global installed capacity of industrial robots was 553,000 units, a year-on-year increase of 5%, while my country's installed capacity reached 290,000 units, accounting for 52% of the global installed capacity. This shows that my country is not only the world's largest robot market, but also the world's largest robot producer.
+In the final assembly workshop of Chery's New Energy Vehicle Phase IV Factory located in the south of Wuhu City, the quality inspection line is in order. After the final rain, dynamic and paint inspections, iCAR03 SUVs are rolling off the production line one after another.
+
+Li Nan, the production manager of iCAR03, told reporters that the workshop was just put into use in October and is in the ramp-up stage. Unlike traditional production lines, the automation rate is a highlight. The windshield, chassis, seats, and tires are all assembled by robots, which greatly saves manpower and improves efficiency.
+
+This is just one scenario of intelligent application of robots in Wuhu.
+
+In recent years, the rapid development of technologies such as artificial intelligence has brought more possibilities to the robotics industry, making robots more "intelligent" and "smarter".
+
+This conference coincides with the tenth anniversary of Wuhu being approved as the first national robotics industry cluster in the country.
+
+Over the past ten years, Wuhu's robotics industry has achieved development from "nothing to something" and "from weak to strong", and has realized a full industrial chain integrating industrial robots, service robots, system integration, artificial intelligence and special equipment, gathering more than 220 upstream and downstream enterprises, and its output value has exceeded 30 billion yuan.
+
+Wuhu has won the National Best Robot Industrial Park Award for six consecutive years, ranked first in the Anhui Province Robot Industry Development Classification Assessment for five consecutive years, and ranked eighth in the country in terms of comprehensive strength of the robot industry. Undoubtedly, the robot industry has become a "beautiful business card" for Wuhu's industrial development.
+
+In the view of Wuhu Municipal Party Committee Secretary Ningbo, the key to the development of the robotics and artificial intelligence industries currently lies in the support of computing power and data, which Wuhu has unique advantages in.
+
+Today, the Wuhu data center cluster is one of the top ten clusters of the country's "East Data West Computing" and has become the home of 14 key projects such as Huawei Cloud and the three major operators, with a total investment of more than 250 billion yuan. By the end of next year, the computing scale of the Wuhu data center cluster will exceed 10,000P, and will exceed 30,000P in the next five years, which will surely provide strong data support and computing power for the development of the robotics industry.
+As an important equipment for new technologies and intelligent manufacturing, the robotics industry plays an important role in promoting the digital development of the manufacturing industry, intelligent upgrading, and the continuous application of new industries and new business formats.
+
+Su Bo, director of the National Intelligent Manufacturing Expert Committee, believes that in recent years, my country's robotics industry has achieved vigorous development, has been popularized in the manufacturing field, and has formed a relatively complete industrial chain, but the market share of domestic robots has always hovered around 30%.
+
+He pointed out that some key parts of robots have made breakthroughs, but the supporting capabilities of system integration have not been formed. For example, in the welding and assembly production lines of new energy vehicles, foreign brand robots still dominate.
+
+So, how can we achieve the popularization and application of robots? With the accelerated advancement of new industrialization, how can we make more fields enjoy the benefits of robots?
+
+Su Bo said that first of all, we must actively promote the improvement of key technical capabilities of robots, carry out joint research and development between industry, academia, research and application, speed up the filling of gaps in the industrial chain such as processing technology, and create more high-end and intelligent robot products.
+
+Secondly, we must accelerate the popularization and application of mature scenarios, promote the improvement of system integration capabilities of important production lines, and promote digital and intelligent transformation and upgrading of various industries and import substitution.
+
+In the field of professional talent training, Liu Zhanshan, former executive vice president and secretary-general of the China Vocational Education Society, and Su Bo share the same ideas.
+
+"The talent training model, educational content, and faculty level of vocational colleges must adapt to the needs of industry and enterprise development, and vigorously strengthen the construction of basic disciplines, new disciplines, and interdisciplinary disciplines." Liu Zhanshan said frankly that, in the final analysis, it is necessary to continuously improve original innovation capabilities and talent training quality, and provide talent support for solving key core technology problems in the development of the robotics industry.
+
+In his opinion, only when the functions of robots are more diverse, the talent pool is more complete, and the application areas are further expanded, can we truly realize the goal of robots empowering thousands of industries.

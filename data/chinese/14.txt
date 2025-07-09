@@ -1,0 +1,111 @@
+title: 人形机器人加速进化 具身智能未来如何演绎？
+title_translation: Humanoid robots are evolving faster. How will the future of embodied intelligence unfold?
+date: 
+author: 
+origin: china
+url: http://www.news.cn/liangzi/20250410/aef5ffa190054c75b29d6c95e4860a71/c.html
+text:过去几个月，您一定刷到过这样的视频：各种人形机器人在不同的场景中展示各类绝活。伴随人形机器人“出圈”的还有一个新词，这就是具身智能。所谓具身智能，简单说，就是具有了物理身体，能够和环境实现交互的人工智能。这项科技主要研究如何使机器人具备类似人类的感知、规划、决策和行为能力。作为发展新质生产力的重要组成部分，具身智能将会对我们的生产生活带来怎样的影响？人形机器人何时能真正进入寻常百姓家？来看记者的走访调研。
+空翻、练武术、端茶倒水、进厂拧螺丝……今年以来，人形机器人以各种惊艳的动作“出圈”，热度持续不减。流畅自如的动作表演，源于对每一块钢铁肌肉的精准操控。在位于苏州吴中区的一个科技园区内，机器人“小麦”正在备战将在北京举行的人形机器人半程马拉松比赛。
+
+  这款于今年发布的人形机器人，经过两个多月的不懈练习，走路和跑步已经接近正常人类姿态。要实现动作自然流畅，靠的是它身体里30多个自动化电机的协同控制，它们正是构成人形机器人“骨骼”架构的核心部件。
+ 机器人的进化不止于更发达的四肢，还有更聪明的头脑。3月，一家人形机器人企业发布了最新机型，在对外公布的视频里，它不仅可以完成骑自行车、给葡萄缝线等高难度操作，由于搭载了多模态交互大模型，还能够实现毫秒级的交互反应，通过人类的面部表情和语音语调作出判断和回应。
+
+  在上海张江一个3000多平方米的具身智能“数据工厂”里，百余台具身智能机器人正穿梭于家居、餐厅等场景。它们通过人工操控，再结合国内首个通用具身基座大模型加强训练，让机器人更聪明，离人们的实际生活更近。
+当人工智能技术与机器人技术深度结合，机器便具备了在物理世界中感知、理解和行动的能力，这种能力被称为具身智能，人形机器人正是具身智能的关键载体。随着大模型的广泛应用，具身智能技术迎来了新的突破，人形机器人也进入到技术集中突破和应用初步试水的关键发展时期。
+中国工程院院士、香港中文大学（深圳）校长徐扬生：“第一个特点，这个机器有行动的功能，能够走路、能够跳；第二要有感知功能，能够看到是红的还是蓝的还是绿的，能够触摸是毛茸茸的东西还是冰冷的东西；第三要有思维的功能，能够认识世界、能够作决策。三个功能加起来，我们叫作具身智能。这个时代刚刚开始，因为算力在提高、数据在提高，无穷无尽的数据，机器的思考功能提高了以后，它会模仿人，能够学习人。”
+
+  今年两会上提出，建立未来产业投入增长机制，培育生物制造、量子科技、具身智能、6G等未来产业。在业内看来，具身智能已成为我国培育未来产业的重要方向以及全球科技竞争与合作的“关键领域”。
+
+  徐扬生：“中国是个制造大国，具身智能不仅涉及到软件，而且涉及到制造业的所有东西，对推动中国制造业发展非常重要。具身智能是个综合工程，所以我们的具身智能如果能够发展起来，能够把整个行业带动起来，制造业的、电子的、动力的、机械的，包括软件工程全部都能上去。”
+ 国际投行高盛今年2月发布研报认为，人形机器人产业正处于从研发走向规模化生产的关键时期。中国凭借完整的制造业体系和广阔的应用市场，有望在特定细分领域实现突破。目前，国内明确提出发展具身智能的城市已超过20个。北京、深圳、上海、杭州凭借技术、产业、生态的综合优势，整体领先全国。据统计，深圳拥有机器人相关企业超过5.7万家，位列全国城市首位，产业链总产值超过1700亿元。不少具身智能以及人形机器人企业都聚集在高楼林立的南山区。
+
+  不久前刚刚发布的一款服务型人形机器人，未来将用在酒店。和我们现在常见的酒店服务机器人不同，它有了一双灵巧手，不仅能抓取快递和外卖，还能自己按电梯。
+ 这是该机器人企业半年内研发的第三款产品，高效的研发速度，除了依靠于自身的研发实力，更离不开产业集群所带来的供应链优势。在深圳，头部人形机器人企业国产化率超90%，产业链供应链本地化率突破60%。尤其在南山区，半径10公里内基本可以完成机器人从设计到量产的闭环。
+
+  产业协同不仅是物理空间的聚集，更是技术、资本、人才的“化学反应”。一家成立不到四年的机器人公司，研发人员占比达70%以上，他们以自研的具身智能引擎作为技术底座，专攻于机器人的视觉和大脑，让传统的机械臂拥有了接近于人类的判断力。依托于珠三角的制造业产业生态，他们已经在工业领域的智能制造方面落地了许多应用。
+ 随着近年来具身智能，特别是人形机器人热度飙升，多家机器人企业都加快了产品的研发投入。该企业从去年开始也不再局限于研发“大脑”，而是向着通用人形机器人本体研发与整体落地方向迈进。此外，他们现在几乎每天都要迎接好几批来自全国各地机构和投资人的走访调研。
+
+  新兴产业、未来产业的发展成熟，一般都会经历从技术突破到“成本革命”再到实现大规模商业化的进程。整体来看，虽然具身智能技术已在部分领域实现小规模应用，但从核心技术的自主可控到产业链的协同创新再到商业模式的探索，仍然面临多重考验。人形机器人距离走入千家万户还有不小的距离。
+  央视网消息（焦点访谈）：过去几个月，您一定刷到过这样的视频：各种人形机器人在不同的场景中展示各类绝活。伴随人形机器人“出圈”的还有一个新词，这就是具身智能。所谓具身智能，简单说，就是具有了物理身体，能够和环境实现交互的人工智能。这项科技主要研究如何使机器人具备类似人类的感知、规划、决策和行为能力。作为发展新质生产力的重要组成部分，具身智能将会对我们的生产生活带来怎样的影响？人形机器人何时能真正进入寻常百姓家？来看记者的走访调研。
+
+
+
+  空翻、练武术、端茶倒水、进厂拧螺丝……今年以来，人形机器人以各种惊艳的动作“出圈”，热度持续不减。流畅自如的动作表演，源于对每一块钢铁肌肉的精准操控。在位于苏州吴中区的一个科技园区内，机器人“小麦”正在备战将在北京举行的人形机器人半程马拉松比赛。
+
+  这款于今年发布的人形机器人，经过两个多月的不懈练习，走路和跑步已经接近正常人类姿态。要实现动作自然流畅，靠的是它身体里30多个自动化电机的协同控制，它们正是构成人形机器人“骨骼”架构的核心部件。
+
+
+
+  机器人的进化不止于更发达的四肢，还有更聪明的头脑。3月，一家人形机器人企业发布了最新机型，在对外公布的视频里，它不仅可以完成骑自行车、给葡萄缝线等高难度操作，由于搭载了多模态交互大模型，还能够实现毫秒级的交互反应，通过人类的面部表情和语音语调作出判断和回应。
+
+  在上海张江一个3000多平方米的具身智能“数据工厂”里，百余台具身智能机器人正穿梭于家居、餐厅等场景。它们通过人工操控，再结合国内首个通用具身基座大模型加强训练，让机器人更聪明，离人们的实际生活更近。
+
+
+
+  当人工智能技术与机器人技术深度结合，机器便具备了在物理世界中感知、理解和行动的能力，这种能力被称为具身智能，人形机器人正是具身智能的关键载体。随着大模型的广泛应用，具身智能技术迎来了新的突破，人形机器人也进入到技术集中突破和应用初步试水的关键发展时期。
+
+
+
+  中国工程院院士、香港中文大学（深圳）校长徐扬生：“第一个特点，这个机器有行动的功能，能够走路、能够跳；第二要有感知功能，能够看到是红的还是蓝的还是绿的，能够触摸是毛茸茸的东西还是冰冷的东西；第三要有思维的功能，能够认识世界、能够作决策。三个功能加起来，我们叫作具身智能。这个时代刚刚开始，因为算力在提高、数据在提高，无穷无尽的数据，机器的思考功能提高了以后，它会模仿人，能够学习人。”
+
+  今年两会上提出，建立未来产业投入增长机制，培育生物制造、量子科技、具身智能、6G等未来产业。在业内看来，具身智能已成为我国培育未来产业的重要方向以及全球科技竞争与合作的“关键领域”。
+
+  徐扬生：“中国是个制造大国，具身智能不仅涉及到软件，而且涉及到制造业的所有东西，对推动中国制造业发展非常重要。具身智能是个综合工程，所以我们的具身智能如果能够发展起来，能够把整个行业带动起来，制造业的、电子的、动力的、机械的，包括软件工程全部都能上去。”
+
+
+
+  国际投行高盛今年2月发布研报认为，人形机器人产业正处于从研发走向规模化生产的关键时期。中国凭借完整的制造业体系和广阔的应用市场，有望在特定细分领域实现突破。目前，国内明确提出发展具身智能的城市已超过20个。北京、深圳、上海、杭州凭借技术、产业、生态的综合优势，整体领先全国。据统计，深圳拥有机器人相关企业超过5.7万家，位列全国城市首位，产业链总产值超过1700亿元。不少具身智能以及人形机器人企业都聚集在高楼林立的南山区。
+
+  不久前刚刚发布的一款服务型人形机器人，未来将用在酒店。和我们现在常见的酒店服务机器人不同，它有了一双灵巧手，不仅能抓取快递和外卖，还能自己按电梯。
+
+
+
+  这是该机器人企业半年内研发的第三款产品，高效的研发速度，除了依靠于自身的研发实力，更离不开产业集群所带来的供应链优势。在深圳，头部人形机器人企业国产化率超90%，产业链供应链本地化率突破60%。尤其在南山区，半径10公里内基本可以完成机器人从设计到量产的闭环。
+
+  产业协同不仅是物理空间的聚集，更是技术、资本、人才的“化学反应”。一家成立不到四年的机器人公司，研发人员占比达70%以上，他们以自研的具身智能引擎作为技术底座，专攻于机器人的视觉和大脑，让传统的机械臂拥有了接近于人类的判断力。依托于珠三角的制造业产业生态，他们已经在工业领域的智能制造方面落地了许多应用。
+
+
+
+  随着近年来具身智能，特别是人形机器人热度飙升，多家机器人企业都加快了产品的研发投入。该企业从去年开始也不再局限于研发“大脑”，而是向着通用人形机器人本体研发与整体落地方向迈进。此外，他们现在几乎每天都要迎接好几批来自全国各地机构和投资人的走访调研。
+
+  新兴产业、未来产业的发展成熟，一般都会经历从技术突破到“成本革命”再到实现大规模商业化的进程。整体来看，虽然具身智能技术已在部分领域实现小规模应用，但从核心技术的自主可控到产业链的协同创新再到商业模式的探索，仍然面临多重考验。人形机器人距离走入千家万户还有不小的距离。
+
+
+
+  真实的需求和场景应用，是决定人形机器人能否从实验室进入大规模量产的关键，如何避免企业的重复投入、实现资源的高效整合与协同创新突破成为各地努力探索的一个重要方向。
+作为一个平台，深圳市人工智能与机器人研究院围绕行业共性问题进行技术攻关，积极帮助机器人企业找到更多真实应用场景，不仅能快速提升不同行业智能化水平，也能为机器人企业采集到更多应用场景的真实数据。眼下，张建国正和团队研究如何优化算法，通过给人形机器人加上灵巧手等方式，为南方电网提供电力保障服务。如果进展顺利，这些人形机器人就会在今年11月份举行的全国运动会上，和电力巡检人员一起参与电力保供的工作。
+
+  打造公共服务平台矩阵，吸引更多上下游企业、科研机构、创新团队等加入，形成更完善的产业生态，深圳正努力提升打造具身智能机器人产业高地。近期，深圳又发布了具身智能机器人技术创新与产业发展三年行动计划，提出要新增培育具身智能领域估值过百亿企业10家以上、关联产业规模达到1000亿元以上，具身智能机器人产业集群相关企业超过1200家等更为具体的目标。
+  深圳市科技创新局局长张林：“我们会围绕着关键核心技术攻关、要素供给、数据采集、场景供给、人才政策支持等，全方位对企业进行支持。目标也很明确，就是抓住这一波具身智能发展的重大关口和机遇，用两三年的时间在深圳和大湾区，培育出一个服务全中国乃至全世界的万亿规模的具身智能产业集群。”
+
+  目前，具身智能正从单点突破迈向产业协同，从“野蛮生长”走向“生态共建”，开启生态化发展新阶段。科技创新和产业创新是发展新质生产力的基本路径。让创新链和产业链无缝对接，是激发企业创新活力的关键，也是政策发力的重点。在具身智能这条属于未来产业的新赛道上，在这场技术和产业的变革中，中国正以开放的姿态、创新的精神努力奔跑。
+translation: In the past few months, you must have seen such videos: various humanoid robots show various unique skills in different scenes. There is also a new word accompanying the "out of the circle" of humanoid robots, which is embodied intelligence. The so-called embodied intelligence, simply put, is artificial intelligence with a physical body that can interact with the environment. This technology mainly studies how to enable robots to have human-like perception, planning, decision-making and behavioral capabilities. As an important part of the development of new quality productivity, what impact will embodied intelligence have on our production and life? When can humanoid robots really enter the homes of ordinary people? Let's take a look at the reporter's visit and investigation.
+Somersaults, martial arts, serving tea, screwing in factories... This year, humanoid robots have become popular with their amazing movements. The smooth and natural movements are the result of precise control of every muscle. In a science and technology park in Wuzhong District, Suzhou, the robot "Xiaomi" is preparing for the humanoid robot half marathon to be held in Beijing.
+
+  This humanoid robot, released this year, has been able to walk and run like a normal human after more than two months of unremitting practice. To achieve natural and smooth movements, it relies on the coordinated control of more than 30 automatic motors in its body, which are the core components of the "skeleton" structure of the humanoid robot.
+ The evolution of robots is not limited to more developed limbs, but also to smarter brains. In March, a humanoid robot company released its latest model. In the video released to the public, it can not only complete difficult operations such as riding a bicycle and sewing grapes, but also achieve millisecond-level interactive reactions due to its multimodal interactive large model, making judgments and responses through human facial expressions and voice intonation.
+
+In a 3,000-square-meter embodied intelligence "data factory" in Zhangjiang, Shanghai, more than 100 embodied intelligent robots are shuttling between homes, restaurants, and other scenes. They are manually controlled and combined with the country's first universal embodied base large model for enhanced training, making the robots smarter and closer to people's real lives.
+When artificial intelligence technology is deeply integrated with robotics technology, machines will have the ability to perceive, understand and act in the physical world. This ability is called embodied intelligence, and humanoid robots are the key carriers of embodied intelligence. With the widespread application of large models, embodied intelligence technology has ushered in new breakthroughs, and humanoid robots have also entered a critical development period of concentrated technological breakthroughs and initial application trials.
+Xu Yangsheng, academician of the Chinese Academy of Engineering and president of the Chinese University of Hong Kong, Shenzhen: "The first characteristic is that the machine has the ability to move, such as walking and jumping. The second characteristic is that the machine has the ability to perceive, such as being able to see whether something is red, blue or green, and being able to touch something furry or cold. The third characteristic is that the machine has the ability to think, such as being able to understand the world and make decisions. The combination of these three functions is what we call embodied intelligence. This era has just begun, because computing power is increasing, data is increasing, and there is endless data. When the thinking function of the machine is improved, it will imitate humans and learn from them."
+
+At this year's two sessions, it was proposed to establish a mechanism for the growth of investment in future industries and cultivate future industries such as biomanufacturing, quantum technology, embodied intelligence, and 6G. In the industry's view, embodied intelligence has become an important direction for my country to cultivate future industries and a "key area" for global scientific and technological competition and cooperation.
+
+Xu Yangsheng: "China is a manufacturing powerhouse. Embodied intelligence involves not only software but also everything in the manufacturing industry. It is very important to promote the development of China's manufacturing industry. Embodied intelligence is a comprehensive project. If our embodied intelligence can be developed, it can drive the entire industry, including manufacturing, electronics, power, machinery, and software engineering."
+In February this year, the international investment bank Goldman Sachs released a research report that the humanoid robot industry is at a critical stage from research and development to large-scale production. With a complete manufacturing system and a broad application market, China is expected to achieve breakthroughs in specific segments. At present, there are more than 20 cities in China that have explicitly proposed the development of embodied intelligence. Beijing, Shenzhen, Shanghai, and Hangzhou lead the country as a whole with their comprehensive advantages in technology, industry, and ecology. According to statistics, Shenzhen has more than 57,000 robot-related companies, ranking first among cities in the country, and the total output value of the industrial chain exceeds 170 billion yuan. Many embodied intelligence and humanoid robot companies are gathered in Nanshan District, where high-rise buildings are everywhere.
+
+A service humanoid robot was just released not long ago and will be used in hotels in the future. Unlike the common hotel service robots we have now, it has a pair of dexterous hands that can not only grab express and takeaways, but also press the elevator by itself.
+This is the third product developed by the robot company in half a year. The efficient development speed depends not only on its own R&D strength, but also on the supply chain advantages brought by the industrial cluster. In Shenzhen, the localization rate of leading humanoid robot companies exceeds 90%, and the localization rate of the industrial chain supply chain exceeds 60%. Especially in Nanshan District, the closed loop from robot design to mass production can be basically completed within a radius of 10 kilometers.
+
+Industrial collaboration is not only the gathering of physical space, but also the "chemical reaction" of technology, capital and talents. A robotics company established less than four years ago, with R&D personnel accounting for more than 70%, uses its self-developed embodied intelligence engine as the technical foundation, specializing in the robot's vision and brain, allowing traditional robotic arms to have judgment close to that of humans. Relying on the manufacturing industry ecology of the Pearl River Delta, they have already implemented many applications in the field of intelligent manufacturing in the industrial field.
+With the surge in popularity of embodied intelligence, especially humanoid robots, in recent years, many robot companies have accelerated their investment in product R&D. Since last year, the company has no longer been limited to the development of the "brain", but has moved towards the development and overall implementation of general humanoid robots. In addition, they now receive several visits and surveys from institutions and investors from all over the country almost every day.
+
+The development and maturity of emerging industries and future industries generally go through a process from technological breakthroughs to "cost revolution" and then to large-scale commercialization. Overall, although embodied intelligence technology has been applied on a small scale in some fields, it still faces multiple challenges from the independent control of core technologies to the collaborative innovation of the industrial chain and the exploration of business models. Humanoid robots are still a long way from entering thousands of households.
+Real needs and scenario applications are the key to determining whether humanoid robots can move from the laboratory to large-scale mass production. How to avoid repeated investment by enterprises and achieve efficient integration of resources and collaborative innovation breakthroughs has become an important direction for various regions to explore.
+As a platform, Shenzhen Artificial Intelligence and Robotics Research Institute conducts technical research around common industry problems and actively helps robot companies find more real application scenarios, which can not only quickly improve the intelligence level of different industries, but also collect more real data for application scenarios for robot companies. At present, Zhang Jianguo and his team are studying how to optimize the algorithm and provide power supply security services for the Southern Power Grid by adding dexterous hands to humanoid robots. If all goes well, these humanoid robots will participate in the work of power supply security together with power inspection personnel at the National Games held in November this year.
+
+Shenzhen is working hard to build a public service platform matrix to attract more upstream and downstream enterprises, scientific research institutions, and innovation teams to join and form a more complete industrial ecology. Shenzhen has recently released a three-year action plan for technological innovation and industrial development of embodied intelligent robots, proposing to cultivate more than 10 companies with a valuation of over 10 billion yuan in the field of embodied intelligence, to achieve a scale of more than 100 billion yuan in related industries, and to have more than 1,200 companies related to the embodied intelligent robot industry cluster.
+
+Zhang Lin, Director of the Shenzhen Science and Technology Innovation Bureau: "We will provide all-round support to enterprises around key core technology research, factor supply, data collection, scenario supply, talent policy support, etc. The goal is also very clear, which is to seize the major juncture and opportunity of this wave of embodied intelligence development, and use two to three years in Shenzhen and the Greater Bay Area to cultivate a trillion-scale embodied intelligence industry cluster that serves China and even the world."
+
+At present, embodied intelligence is moving from single-point breakthroughs to industrial collaboration, from "barbaric growth" to "ecological co-construction", and opening a new stage of ecological development. Technological innovation and industrial innovation are the basic paths to develop new quality productivity. Seamless connection between the innovation chain and the industrial chain is the key to stimulating the innovative vitality of enterprises and the focus of policy efforts. In the new track of embodied intelligence, which belongs to the future industry, in this technological and industrial transformation, China is running hard with an open attitude and innovative spirit.

@@ -1,0 +1,37 @@
+title: 
+title_translation: From the stage to the living room: Yushu Technology founder talks about the iteration of China's robotics industry
+date: 
+author: 
+origin: china
+url: http://www.news.cn/tech/20250620/06b4e2baf9fa489e8c6ca92aa214d14b/c.html
+text:
+translation: 　"In the next one to two years, robots will have simple, generalized commercial and household capabilities such as tidying up rooms and delivering items." Wang Xingxing, founder of Chinese robot company Yushu Technology, said in an exclusive interview with Xinhua News Agency reporters recently that the company has been continuously improving the operational capabilities of robots in recent years so that robots can "work" for humans.
+
+　　"In the past year, we have upgraded the operating capabilities of the robot arms, such as assembling parts and opening doors, so that robots can help humans free themselves from heavy labor," said Wang Xingxing.
+
+
+　　In January this year, Yushu Technology's humanoid robot, wearing a little red coat and holding a red handkerchief, danced the Yangko on the Spring Festival Gala stage and quickly became popular. In May, the world's first fighting competition with humanoid robots as the main participants was held in Hangzhou, and Yushu Technology's humanoid robots presented many "famous scenes" in the fighting competition on the ring.
+
+　　While humanoid robots demonstrate their technological capabilities through performance activities such as dancing and fighting, they also spark discussions on the practicality of the technology, commercialization paths and industry bubbles.
+
+　　In this regard, Wang Xingxing believes that before the "ultimate goal" of humanoid robots entering production and life is achieved, performances can demonstrate the true development of robots and generate some commercial value.
+
+　　"The robot fighting competition uses our latest generation of control technology. The robots are able to complete complex combination movements such as punching and roundhouse kicking. The movements are smoothly connected and the stability is good." Wang Xingxing said that in the future, robot fighting competitions are also expected to become a globally popular sporting event like football and basketball.
+
+　　Yushu Technology launched the humanoid robot project in 2023. Thanks to its long-term technological accumulation in the field of quadruped robots, it took only half a year to launch the first bipedal robot.
+
+　　Based on the development of artificial intelligence (AI) technology, the humanoid robot launched by Yushu Technology in 2024 has the flexibility beyond that of ordinary people and can perform difficult dynamic movements. This year, humanoid robots have "learned" kung fu, somersaults, and somersaults through AI technologies such as data capture and reinforcement learning, which has attracted widespread attention.
+
+　　Represented by Yushu Technology, "Chinese power" is rising in the global arena of humanoid robots. Morgan Stanley's research report "Humanoid Robots 100: Mapping the Humanoid Robot Value Chain" recently released predicts that by 2050, the scale of China's humanoid robot market will reach 6 trillion yuan, and the total number of humanoid robots will reach 59 million units.
+
+　　Data released by China's State Administration for Market Regulation show that as of the end of December 2024, there were 451,700 intelligent robot industry enterprises in China, with a total registered capital of 6,444.57 billion yuan. The number of enterprises increased by 206.73% from the end of 2020 and by 19.39% from the end of 2023, showing a steady upward trend.
+
+　　In March this year, humanoid robots entered 5G smart factories in China to carry out collaborative training of multiple robots, multiple scenarios and multiple tasks. When will humanoid robots really move from the stage to the workshop and even the living room?
+
+　　"At present, the large-scale and batch use of robots still requires further breakthroughs in software and hardware." Wang Xingxing said that if hardware and AI are compared to the body and brain of a robot, humanoid robots need to achieve low cost and reliable performance while pursuing lightweight hardware. The greater challenge lies in the large AI model.
+
+　　"It will take some time before humanoid robots enter production spaces and family life's 'ChatGPT' moment arrives." Wang Xingxing said that robot manufacturers and research institutions at home and abroad are exploring through different paths and are currently on the "eve" of a breakthrough.
+
+　　In Wang Xingxing's view, humanoid robots will take the lead in opening up the industrial and commercial fields. He said that the birth of AI and general robotics technology will promote a new round of "industrial revolution", and will also change and even reconstruct production relations and human-machine ethics. It is necessary to think ahead about the improvement of the legal and regulatory system, the safety of human-machine collaboration, and the reshaping of labor skills.
+
+　　"Since I was a child, I have wanted to use technology to change the world. Just as the name 'Yushu Technology' represents more than just a company, I hope to light up a 'technology tree' that flourishes in the vast universe," he said.

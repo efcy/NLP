@@ -1,0 +1,49 @@
+title: 
+title_translation: Chinese Intelligent Manufacturing Shines at the International Robot Exhibition
+date: 
+author: 
+origin: china
+url: http://world.people.com.cn/n1/2025/0702/c1002-40513292.html
+text: 人民网慕尼黑7月1日电（记者刘仲华）2025慕尼黑国际机器人及自动化博览会日前在德国慕尼黑展览中心举行。该展会每两年举办一届，是全球机器人及自动化解决方案的行业盛会，从单个组件到完整系统，从具体应用到相关服务，呈现了整个自动化产业链。本届展会共有来自40个国家的约900家参展商。巴伐利亚州经济事务部长艾旺格在参观展览时表示，“机器人技术和自动化将彻底改变我们的生产流程。尤其是人工智能的整合，将开启一系列全新的可能性。”
+
+本届机器人展共有100多家中国机器人企业参与，在国际舞台上展示中国智造最新进展。南京埃斯顿公司此次租用了数百平米展台，展出全系列工业机器人、协作机器人、人形机器人、ERI实时控制方案以及前沿的数字化技术和安全工作站。据该公司总裁助理赵晓东介绍，目前埃斯顿机器人在中国市场占10%份额，同时不断拓展海外业务，欧洲总部落户瑞士，业务覆盖德、意、西等国，海外营收占比达三分之一。近年来公司不断加大研发投入，产品核心部件75%至80%靠自主研发，“我们的技术从跟随到超越，正不断赶超国际先进水平。”
+在苏州绿的谐波公司展台，一个个尺寸各异，用于工业机器人的减速器、数控转轴等产品吸引很多客商前来参观洽谈。该公司全球业务总裁杜建斌说，此次参展的核心产品为谐波减速机，通过齿差传动实现100:1减速比，旋转执行器则具备高力矩输出，这些都是自主研发产品，受到市场欢迎。目前公司产品在国内机器人市场占比较高，未来公司将海外业务作为开拓重点，随着产品质量不断提升，希望将海外业务占比提升至50%以上。
+一个机械臂上的圆盘里，滚动着闪闪发亮的钢球。轻轻推动机械臂，托盘仍保持水平，稳稳地托着钢球转动。上海非夕机器人公司首次把“小球平衡”演示带到展会，以展示自适应机器人超强力控技术。该公司市场部负责人高云帆介绍，非夕自适应机器人采用七轴设计，比传统六轴机器人可实现更快响应，深度融合了工业级力控、机器视觉和先进AI技术，能够适应复杂环境、以类人的方式完成多种复杂任务。公司期待与更多欧洲伙伴共创智能制造的未来。
+代理宇树机器人的德国四足机器人公司在展会现场展示了宇树人形机器人、机器狗等产品。该公司财务总监丹尼·埃勒丁说，宇树机器人性价比高，质量稳定，深受市场欢迎，目前覆盖了近80%的德国高校等科研机构。
+展会现场一个立式展板很引人瞩目，“中国+德国=优秀设计+强大制造”。德国尤尼马蒂自动化公司销售总监尤尔根·基尔斯特告诉记者，十多年前公司就在昆山设立分部，采购中国产零部件。由于中国供应链性价比优势，为德国客户提供高质量的机械零部件，德国市场对中国制造接受度不断提升。“我先后访华30多次，非常喜欢这个国家，也为中国经济发展速度感到震惊和欣喜。”
+translation: People's Daily Online, Munich, July 1 (Reporter Liu Zhonghua) The 2025 Munich International Robotics and Automation Expo 
+was recently held at the Munich Exhibition Center in Germany. The exhibition is held every two years and is an industry event for 
+global robotics and automation solutions, presenting the entire automation industry chain from single components to complete systems, 
+from specific applications to related services. This exhibition has a total of about 900 exhibitors from 40 countries. While visiting 
+the exhibition, Bavaria's Minister of Economic Affairs Aiwanger said, "Robotics and automation will completely change our production 
+processes. In particular, the integration of artificial intelligence will open up a series of new possibilities."
+More than 100 Chinese robot companies participated in this robot exhibition, showcasing the latest progress of China's intelligent 
+manufacturing on the international stage. Nanjing Estun Company rented a booth of hundreds of square meters this time, exhibiting a 
+full range of industrial robots, collaborative robots, humanoid robots, ERI real-time control solutions, as well as cutting-edge 
+digital technologies and safety workstations. According to Zhao Xiaodong, assistant to the president of the company, Estun Robotics 
+currently accounts for 10% of the Chinese market, while continuously expanding its overseas business. Its European headquarters is 
+located in Switzerland, and its business covers Germany, Italy, Spain and other countries, with overseas revenue accounting for 
+one-third. In recent years, the company has continuously increased its investment in research and development, and 75% to 80% of 
+the core components of its products are independently developed. "Our technology has gone from following to surpassing, and is 
+constantly catching up with the international advanced level . "
+At the booth of Suzhou Green Harmonic Company, reducers and CNC shafts of various sizes for industrial robots attracted many 
+merchants to visit and negotiate. Du Jianbin, the company's global business president, said that the core product of this exhibition 
+is the harmonic reducer, which achieves a 100:1 reduction ratio through tooth difference transmission, and the rotary actuator has high 
+torque output. These are all independently developed products and are popular in the market. At present, the company's products account 
+for a high proportion of the domestic robot market. In the future, the company will focus on developing overseas business. As product 
+quality continues to improve, it hopes to increase the proportion of overseas business to more than 50%.
+A shiny steel ball rolls in a disc on a robotic arm. Gently push the robotic arm, and the tray remains horizontal, steadily supporting 
+the steel ball to rotate. Shanghai Feixi Robotics Company brought the "small ball balance" demonstration to the exhibition for the first 
+time to demonstrate the super-strong force control technology of adaptive robots. Gao Yunfan, head of the company's marketing department, 
+introduced that the Feixi adaptive robot adopts a seven-axis design, which can achieve faster response than traditional six-axis robots. 
+It deeply integrates industrial-grade force control, machine vision and advanced AI technology, and can adapt to complex environments and 
+complete a variety of complex tasks in a human-like way. The company looks forward to creating the future of intelligent manufacturing 
+with more European partners.
+The German company Quadruped Robotics, which represents Yushu Robotics, displayed Yushu humanoid robots, robot dogs and other products 
+at the exhibition. Danny Elerding, the company's financial director, said that Yushu Robotics is cost-effective, has stable quality, 
+is very popular in the market, and currently covers nearly 80% of German universities and other scientific research institutions.
+A vertical display board at the exhibition site is very eye-catching, "China + Germany = excellent design + strong manufacturing". 
+Jurgen Kierst, sales director of German Unimart Automation, told reporters that the company set up a branch in Kunshan more than ten years 
+ago to purchase parts made in China. Due to the cost-effectiveness of China's supply chain, it provides high-quality mechanical parts for 
+German customers, and the German market's acceptance of Chinese manufacturing continues to increase. "I have visited China more than 30 
+times and I like this country very much. I am also shocked and delighted by the speed of China's economic development . "
