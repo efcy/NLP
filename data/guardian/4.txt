@@ -2,6 +2,7 @@ title: Robot dogs deployed in New York building collapse revive surveillance fea
 url: https://www.theguardian.com/technology/2023/apr/26/robot-dogs-new-york-building-collapse-surveillance
 date:
 author:
+origin: west
 text:
 Robots praised by New York mayor for searching ruins of a parking garage collapse, but critics fear robots will collect private data 
 “Digidog is out of the pound,” Eric Adams declared in April. The New York City mayor also insisted the successful use of the 

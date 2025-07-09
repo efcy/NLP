@@ -2,6 +2,7 @@ title: US tests of robotic patrol dogs on Mexican border prompt outcry
 url: https://www.theguardian.com/us-news/2022/feb/04/us-tests-of-robotic-patrol-dogs-on-mexican-border-prompt-outcry
 date:
 author:
+origin: west
 text: Civil liberties group urges Washington to cancel programme to prevent ‘slide into anti-immigrant dystopia’
 The US is testing robotic patrol dogs along its frontier with Mexico that it says could provide “mechanical reinforcements” 
 for border guards, in a move criticised by a leading domestic rights group as a “civil liberties disaster”.
