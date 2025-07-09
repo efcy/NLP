@@ -1,10 +1,23 @@
-title: 
+title: 云深处科技完成近5亿元新融资，加速具身智能产业化布局
 title_translation: DEEP Robotics Technology completes nearly 500 million yuan in new financing to accelerate the industrialization layout of embodied intelligence(
 date: 
 author: 
 origin: china
 url: http://www.news.cn/digital/20250708/406d9757c77f40a0b48f63046f3aa2de/c.html
-text:
+text: 7月8日，杭州云深处科技有限公司（以下简称云深处科技）宣布完成近5亿元人民币新一轮融资。本轮融资由达晨财智、国新基金等联合领投，北京机器人产业发展投资基金、前海母基金、央视融媒体基金、富浙基金、华映资本、物产中大投资等机构跟投，钧山资本、方广资本及爱施德智城基金等老股东继续加持。
+
+云深处科技成立于2017年，2018年推出能够上下楼梯、自主导航和智能交互的四足机器人，2019年发布具备自主充电能力的四足机器人。公司致力于拓展具身智能机器人技术与应用边界，凭借在技术研发与场景落地上的持续突破，迅速成长为业界瞩目的“杭州六小龙”之一，并成为“中国智造”走向世界的新锐力量。
+自成立以来，云深处科技锚定人形机器人、四足机器人及其核心零部件的自主研发、精益生产、全球销售与专业服务，已实现600+行业场景落地，并在电力巡检、应急救援等B端应用领域得到广泛应用。目前公司拥有授权专利100多项，其中授权发明专利20多项。
+
+今年4月，云深处科技发布山猫M20——专为复杂地形和危险环境设计的行业应用轮足机器人。其融合了轮式机器人的速度与足式机器人的灵活性，自重33kg，单人可搬运；具备IP66防护等级，可在-20℃至55℃温度范围内正常作业，可攀爬80厘米高台，支持自主感知、自主导航和全向避障。
+
+凭借其先进的AI运动控制算法，山猫M20能够自主调整行进姿态，从容应对坎坷山路、泥泞湿地、废墟障碍等极端作业环境，实现全域作业、突破应用边界。随着山猫M20的发布，云深处科技将在电力巡检、消防应急、物流配送、科研探索和更多场景中开拓具身智能行业应用。
+对于本轮融资，云深处科技创始人兼CEO朱秋国表示：“当前全球具身智能产业迎来爆发式增长机遇。本轮融资的顺利交割，充分体现了资本市场对云深处技术路线和商业化前景的认可，也标志着公司发展进入规模化量产新阶段。”
+
+新一轮融资将为云深处科技在技术与产品研发、场景应用与拓展、人才引进与团队建设等方面提供更大动能，进一步巩固其在四足机器人领域的领先身位，并加快其人形机器人、轮足机器人等新产品的商业化落地。
+
+2025年，全球机器人产业正行至从“技术验证”向“规模化落地”跃迁的关键节点。云深处科技将坚持“自主创新+产业落地”双轮驱动发展战略，重点强化在核心部件、运动控制、环境感知、人机交互等关键技术领域的竞争优势，致力于推动中国四足/人形机器人技术持续突破，保持在智能机器人领域的国际前沿水平，实现更多“从0到1”的技术创新，以及“从1到N”的场景落地。
+
 translation: On July 8, Hangzhou Yunshenchu ​​Technology Co., Ltd. (hereinafter referred to as Yunshenchu ​​Technology) announced the completion of a new round of financing of nearly RMB 500 million. This round of financing was jointly led by Dachen Capital and Guoxin Fund, followed by Beijing Robot Industry Development Investment Fund, Qianhai Mother Fund, CCTV Media Integration Fund, Fuzhe Fund, Huaying Capital, Wuchan Zhongda Investment and other institutions, and old shareholders such as Junshan Capital, Fanguang Capital and Aisidi Zhicheng Fund continued to support.
 
 Yunshenchu ​​Technology was founded in 2017. In 2018, it launched a quadruped robot that can go up and down stairs, autonomously navigate, and intelligently interact. In 2019, it released a quadruped robot with autonomous charging capabilities. The company is committed to expanding the boundaries of embodied intelligent robot technology and applications. With continuous breakthroughs in technology research and development and scene implementation, it has rapidly grown into one of the "Six Little Dragons of Hangzhou" that has attracted much attention in the industry, and has become a new force in the globalization of "Chinese Intelligent Manufacturing".
