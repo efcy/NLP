@@ -1,0 +1,8 @@
+title: 
+title_translation:
+date: 
+author: 
+origin: 
+url: 
+text:
+translation
