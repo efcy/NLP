@@ -6,6 +6,31 @@ import json
 nlp = spacy.load("en_core_web_sm")
 sentiment_pipeline = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
+war_terms = ["war", "military", "weapon", "weapons", "drone", "combat", "battle",
+             "conflict", "defense", "attack", "security", "armament", "soldier", "army",
+             "navy", "air force", "cyberwarfare", "aggression", "invasion"]
+
+
+def analyze_war_mentions(doc):
+    mentions = []
+    for token in doc:
+        if token.lower_ in war_terms:
+            # Get the sentence containing the war term
+            sentence = token.sent.text
+            mentions.append({
+                "term": token.text,
+                "sentence": sentence,
+                "context": [] # To store dependency context
+            })
+
+            # Explore dependency relationships for context
+            for child in token.children:
+                mentions[-1]["context"].append(f"{child.text} ({child.dep_})")
+            if token.head != token: # If it's not the root of the sentence
+                mentions[-1]["context"].append(f"{token.head.text} (head: {token.dep_})")
+    return mentions
+
+
 def get_sentiment_transformers(text):
     """
     Analyzes the sentiment of a given text using a pre-trained Hugging Face model.
@@ -33,15 +58,19 @@ if __name__ == "__main__":
     with open('output.json') as f:
         data = json.load(f)
 
+    west_sentiment = []
+    west_war_count = 0
+    china_war_count = 0
+    china_sentiment = []
     for item in data:
-        west_sentiment = []
-        china_sentiment = []
+        
         if item['origin'] == 'west':
-            continue
             print(f"{item['title']}")
             text = item['text']
     
             doc = nlp(text)
+            war_mentions = analyze_war_mentions(doc)
+            west_war_count += len(war_mentions)
             sentences = [sent.text for sent in doc.sents]
 
             # Filter out very short or empty sentences that might cause issues
@@ -55,10 +84,10 @@ if __name__ == "__main__":
                 chunk_sentiments.append(polarity_score)
                 chunk_labels.append(sentiment_label)
 
-
             avg_polarity = np.mean(chunk_sentiments)
-            
+            print(avg_polarity)
             west_sentiment.append(avg_polarity)
+
             if avg_polarity > 0.1: # Thresholds can be adjusted
                 overall_label = "POSITIVE"
             elif avg_polarity < -0.1:
@@ -72,6 +101,8 @@ if __name__ == "__main__":
             text = item['translation']
 
             doc = nlp(text)
+            war_mentions = analyze_war_mentions(doc)
+            china_war_count += len(war_mentions)
             sentences = [sent.text for sent in doc.sents]
 
             # Filter out very short or empty sentences that might cause issues
@@ -96,5 +127,7 @@ if __name__ == "__main__":
         
             print(f"\t{overall_label}")
     
-    #print(f"West: {np.mean(west_sentiment)}")
-    #print(f"China: {np.mean(china_sentiment)}")
+    print("west_sentiment", west_sentiment)
+    print()
+    print(f"West: {np.mean(west_sentiment)} - War: {west_war_count}")
+    print(f"China: {np.mean(china_sentiment)}- War: {china_war_count}")
