@@ -1,0 +1,59 @@
+import marimo
+
+__generated_with = "0.13.15"
+app = marimo.App(width="full")
+
+
+@app.cell
+def _():
+    import spacy
+
+    # Load the Chinese language model
+    # You'll need to download this first: python -m spacy download zh_core_web_sm
+    #nlp = spacy.load("zh_core_web_sm")
+    nlp = spacy.load("zh_core_web_trf")
+
+    # Sample Chinese text
+    chinese_text = """
+    苹果公司计划在2023年于上海开设新的研发中心。
+    该中心将雇佣约500名员工，专注于人工智能和5G技术的开发。
+    首席执行官蒂姆·库克表示这项投资将超过10亿元人民币。
+    """
+
+    chinese_text = """
+    第五波疫情肆虐，不少市民因染疫，導致各行各業出現人手荒，除一般企業暫時縮減營業時間甚至停業外，連義工服務也受影響，不少義工染疫不能外出，令須靠義工上門運送物資的基層頓失所依。於是，有流動網絡服務營辦商與居民團體合作，在抗疫關鍵時刻運用5G網速及大數據，操控機械狗或機械人，以協助運送物資，減輕義工工作人手的同時，亦減低病毒在社區傳播的風險，為未能外出的人士打氣，送上點點溫暖。◆文︰俊朗 圖︰部分由受訪者提供
+
+    在香港，其實有不少長期病患者、長者及在家隔離的街坊，都是靠義工遞送物資上門，奈何疫情嚴峻，派送的義工亦出現短缺問題。深水埗居民聯會副理事長陳國偉因此收到不少居民求助，主動聯繫當區民政事務處，並邀請中國移動香港（CMHK）一同商討幫助居民的方法。中國移動香港政企客戶部總監王佳寧憶述：「找我們的原因，是希望以科技解決居民的需要，協助義工將生活物資送到居民手上，所以最後便想出了『DayDay得機械人送暖計劃』，並以較多長者和基層家庭的石硤尾邨作為試點。」
+
+    實現遠程實時控制
+
+    為了完善計劃，CMHK找來合作夥伴Novelte Robotics Ltd、Rice Robotics HK及OTG OnTheGo Ltd，三者各借出一個5G機械人，另OTG On The Go借出一隻5G機械狗參與計劃。當中，5G機械狗原身是Unitree Go 1系列的多足機械人，有效負載約3公斤。有別於一般機械人，它擁有四足機械結構，能夠於多種地形行走，系列最高型號時速可達每小時17公里。它還內置三組高超音速感應器，可自動避開障礙物，確保順利前往目的地。
+
+    更重要的是，它支援5G網絡，藉由5個魚眼式立體深度相機，以實現遠程實時控制，方便義工查看實時畫面。王佳寧說︰「透過CMHK的5G網絡定位及遠程操作，機械狗準確地將物資送到有需要的居民手上。」就筆者曾有當義工的經驗，平日是需要兩位義工一起派送物資，如果用機械狗幫手，可改為由一名義工控制一隻機械狗，義工將機械狗帶到大堂後將物資放入儲物籃，然後義工遙控機械狗自行上樓至需要支援家庭的大門外，致電叫住戶取走，全程需時約15至30分鐘，義工全程無須接觸對方，較為安全。
+
+    降低義工感染風險
+
+    鑑於疫情嚴峻，義工運送物資期間，即使穿齊保護衣、面罩、頭套和手套等裝備，也有染疫風險，因此，以機械狗運送，透過5G網絡進行定位並遠程監測。當抵達目標住戶的家門，才致電住戶收取物資，全程無須與住戶碰面，亦無須親身走近。在完成一次送遞後，義工會以酒精消毒機械狗全身每個角落，之後再整裝待發支援其他住戶。時間雖較傳統人手派遞緊迫，但降低感染風險才是目的。「我們相信減低染疫風險比減省義工人手帶來的效益更大，計劃每天為8至10個家庭提供服務，每次派送時間約需15至30分鐘。」王佳寧補充說。
+
+    目前計劃雖然只是試行階段，但日後也可擴展至其他區或用來處理其他居民需要，如可充當保安，自動進行日常巡邏，記錄巡邏過程，而疫情嚴峻期間更可提供現場環境空氣檢測，獲得環境數據，甚至化身倒垃圾機械人，協助清潔、收集垃圾等，並加以消毒及自動傾倒。如想要更多「Day Day得機械人送暖計劃」，可WhatsApp 56354794查詢。
+    """
+
+    # Process the text with spaCy
+    tokens = nlp(chinese_text)
+
+    named_entities = [t for t in tokens.ents if t.label_ in ['PERSON', 'PRODUCT', 'ORG']]
+    # Print named entities
+    print("Named Entities Found:")
+    print("-" * 40)
+    for ent in named_entities:
+        print(f"{ent.text:<20} {ent.label_:<10}")
+
+    # Visualize the entities (optional, requires displacy)
+    from spacy import displacy
+
+    displacy.render(tokens, style="ent")
+    return
+
+
+if __name__ == "__main__":
+    app.run()
