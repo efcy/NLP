@@ -1,10 +1,40 @@
-title: 
+title: 在成都 机器人批量造机器人
 title_translation: Robots are mass-produced in Chengdu
 date: 
 author: 
 origin: china
 url: http://sc.people.com.cn/n2/2025/0331/c345167-41181000.html
-text:
+text: 3月28日上午10点，成都卡诺普机器人技术股份有限公司(以下简称“卡诺普”)生产车间内一片繁忙。一批批蓝色机器人有序排列，工人一一对其进行组装、调试。
+
+　　不远处，成都机器人创新中心内，来自安川、发那科、西门子、埃斯顿、卡诺普等各大品牌的机器人一应俱全，上百名来自信息工程学院的大学生来到这里，参加一场关于工业机器人的实训课程。围绕人工智能大模型产业化应用， 这里设置了15个实训室、约500个实训工位。基地的工业机器人及智能制造展示中心可以面向企业、学校以及社会群体开放，致力于为制造业转型升级提供机器人应用创新研究和高技能产业人才培育模式创新，推动技术创新、成果转化、产业孵化和人才培养，加快形成新质生产力。
+
+　　智能装配 实现批量化“机器人造机器人”
+
+　　走进位于成都机器人产业园的卡诺普生产车间，各类工业机器人正在挥舞手臂，不停转动，进行着出厂前每一道工序的检测。这里生产的各类机器人达到60余种。展厅里一台台蓝色机器人排列整齐，正流畅地进行指定位置快速抓取、精准操作演示……仿佛一位位专业且细心的工人，但和人类不同的是，“这些工人”可以24小时连续不间断地工作。
+
+　　“在工业制造领域，工业机器人早已成为不可或缺的助手。”卡诺普副总经理邓世海告诉记者，目前工业机器人应用领域已覆盖汽车、电子、冶金、轻工、石化、医药等行业，广泛应用于喷涂、焊接、搬运、码垛、抛光打磨等领域。
+
+　　2012年公司成立时，就立志做“中国机器人先锋”。公司产品在焊接领域的卓越表现备受瞩目，被称为“机械焊将”。卡诺普不仅仅在焊接领域名列前茅，在一般工业、汽车行业、新能源行业、电子行业、消费品行业等领域均有出色表现。其中，汽车智造机器人采用自研的控制系统和工艺软件系统，已达到行业领先水平，可满足汽车制造产线上的钢点焊、铝点焊等多种焊接工况。“公司采用智能机器人装配模式，已经实现批量化‘机器人造机器人’。”
+
+　　凭借领先的技术，卡诺普实现全球业务的加速拓展。邓世海告诉记者，去年卡诺普工业机器人在欧洲市场的销量实现翻倍，美洲市场则完成零的突破。如今，卡诺普客户遍布全球30余个国家和地区，产品足迹跨越南亚、东南亚、美洲和欧洲四大国外市场板块。
+
+　　自主研发 年内推出工业人形机器人Demo
+
+　　作为工业机器人焊接细分领域的“隐形冠军”，卡诺普把“自主研发”四个字看得尤为重要。
+
+　　“科研团队是全公司最大的部门，人数超过了100人，占到全员的三分之一以上。” 邓世海告诉记者，成立10余年间，卡诺普不断打磨核心技术，深挖工业机器人在具体场景中的应用，迭代产品。在研发实力上，拥有囊括软件、电子、电力、机械、传感、场景等在内的超百人“研发天团”，团队核心研发人员从事机器人控制系统领域的研究已近20年。同时卡诺普保持着较高的研发投入，经费占到营收比重的15%左右，有的年份占比甚至达到20%。随着自主研发的深入，先后参与了10多项工业机器人国家标准制定，还与电子科技大学、四川大学以及部分川内职业院校联合对在校学生进行校企联培。
+
+　　随着研发投入的不断加大，10余年间，诞生于成华区的卡诺普已从创业初期的5个人成长为国家级专精特新“小巨人”企业。目前，自主研发的机器人涵盖焊接、搬运、装配等60多种机型，产品应用覆盖超80%的工业场景，拥有400余项有效知识产权，年产值超过3亿元。
+
+　　“2023年以来，我们基本每个月都要推出一款新产品，产量和销量都得到了大幅提升。”谈及未来产品规划，邓世海透露，预计在年内推出工业人形机器人Demo，并争取在1-2个垂类工业场景中实现落地应用。
+
+　　引优育强 园区内70余家人工智能企业汇聚
+
+　　在培育卡诺普等本土智能制造企业的同时，成华经开区把目光放得更加长远。园区沿着机器人产业链上下游引优育强，聚集了人工智能产业关联企业70余家，智能制造产业生态圈和智能经济产业集群初见雏形。成都机器人创新中心的落地，无疑为园区构建机器人特色产业生态圈拼上了一块重要“拼图”。
+
+　　记者了解到，园区引进智能制造头部企业创新奇智科技集团股份有限公司，双方联合打造了产、学、研一体化平台——成都机器人创新中心，自2024年3月6日正式投用以来，成功吸引了发那科、安川等具有全球影响力的机器人龙头企业入驻，并联合四川大学、成都工贸职业技术学院、卡诺普、国家机器人检测与评定中心等，共同打造成都市机器人产教联合体。
+
+　　就在3月26日科创天府·智汇蓉城“机器人+”科技成果促转化暨2025年成都成华经开区“立园满园”项目集中签约仪式上，成都市机器人产教联合体代表30家机器人重点企业发布了“机器人+”产学研用合作需求清单，晒出企业技术研发需求42条、高端人才需求40条、应用合作需求37条，电子科技大学和成都理工大学现场发布了“机器人+”科技成果转化清单51项，涵盖机器人、智能生产线、自动化检测等领域。随着该联合体的发展壮大，产业链上下游相互赋能、产业生态共生共融的机器人产业发展新格局正在加速成型。活动现场，成华区与和宝机器人、国兴智能等14家企业代表现场签约了7个机器人产业化项目、7个机器人科技成果转化项目，包含人形机器人、特种消防机器人、特种水下机器人、AI大语言模型等“机器人+”研发中心及制造项目，总投资约70亿元，为成华区推动智能制造产业高质量发展带来强劲动能。
 translation: 　At 10 a.m. on March 28, the production workshop of Chengdu Canopus Robotics Technology Co., Ltd. (hereinafter referred to as "Canopus") was busy. Batches of blue robots were arranged in an orderly manner, and workers assembled and debugged them one by one.
 
 　　Not far away, in the Chengdu Robotics Innovation Center, robots from major brands such as Yaskawa, Fanuc, Siemens, Estun, and Canopus are readily available. Hundreds of college students from the School of Information Engineering came here to participate in a practical training course on industrial robots. Focusing on the industrial application of large models of artificial intelligence, 15 training rooms and about 500 training stations are set up here. The industrial robot and intelligent manufacturing exhibition center of the base can be open to enterprises, schools and social groups. It is committed to providing robot application innovation research and high-skilled industrial talent training model innovation for the transformation and upgrading of the manufacturing industry, promoting technological innovation, achievement transformation, industrial incubation and talent training, and accelerating the formation of new quality productivity.

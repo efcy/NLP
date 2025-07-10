@@ -1,10 +1,41 @@
-title: 
+title: 从舞台到客厅：宇树科技创始人谈中国机器人产业迭代
 title_translation: From the stage to the living room: Yushu Technology founder talks about the iteration of China's robotics industry
 date: 
 author: 
 origin: china
 url: http://www.news.cn/tech/20250620/06b4e2baf9fa489e8c6ca92aa214d14b/c.html
-text:
+text: 新华社记者袁震宇、商意盈、朱涵
+
+　　“未来一到两年，机器人将具备整理房间、端送物品等简单、泛化的商用和家用能力。”中国机器人企业宇树科技创始人王兴兴日前在接受新华社记者专访时说，这家公司近年来正持续提升机器人的操作能力，让机器人能为人类“干活”。
+
+　　“最近一年，我们升级了机器人手臂的操作能力，比如装配零部件、开门等，都是为了让机器人帮助人类从繁重劳动中解脱出来。”王兴兴说。
+
+　　被誉为“杭州六小龙”之一的宇树科技创办于2016年，是世界知名的民用机器人公司，也是全球首家公开零售高性能四足机器人的公司，机器人的全球销量领先。
+
+　　今年1月，宇树科技的人形机器人身着小红袄、手持红手帕扭秧歌登上春晚舞台，迅速火爆出圈。5月，全球首个以人形机器人为参赛主体的格斗竞技赛事在杭州开赛，宇树科技的人形机器人在擂台上的格斗比拼呈现多个“名场面”。
+
+　　人形机器人通过跳舞、格斗等表演性活动展示技术能力的同时，也引发人们对技术实用性、商业化路径及行业泡沫的讨论。
+
+　　对此，王兴兴认为，在人形机器人进入生产生活的“终极目标”实现之前，通过表演能够展示机器人的真实发展情况，也能产生部分商业价值。
+
+　　“机器人格斗赛使用了我们最新一代的控制技术，机器人能够完成出拳、回旋踢等复杂组合动作，动作衔接流畅，稳定性较好。”王兴兴说，未来机器人格斗赛也有望成为像足球和篮球这样风靡全球的体育赛事。
+
+　　宇树科技于2023年启动人形机器人项目，得益于在四足机器人领域长期的技术沉淀，只用了半年时间便推出首款双足机器人。
+
+　　基于人工智能（AI）技术的发展，宇树科技于2024年推出的人形机器人已具备超越常人的灵活性，可以完成高难度动态动作。今年以来，人形机器人通过数据捕捉、强化学习等AI技术，“学会”了功夫、侧空翻、鲤鱼打挺……引发广泛关注。
+　以宇树科技为代表，在人形机器人的全球赛场上，“中国力量”正日益崛起。摩根士丹利日前发布的研究报告《人形机器人100：绘制人形机器人价值链图谱》预测，到2050年，中国人形机器人市场规模将达6万亿元，人形机器人总量将达5900万台。
+
+　　中国国家市场监管总局发布的数据显示，截至2024年12月底，中国共有45.17万家智能机器人产业企业，注册资本共计64445.57亿元，企业数量较2020年底增长206.73%，较2023年底增长19.39%，呈稳健上扬态势。
+
+　　今年3月，中国已有人形机器人进入5G智慧工厂开展多台、多场景、多任务的协同实训。人形机器人什么时候才能从舞台真正走进车间，甚至客厅？
+
+　　“目前看，机器人的大规模、批量化使用，还有待软硬件层面的进一步突破。”王兴兴说，如果将硬件和AI比作机器人的身体与大脑，硬件上人形机器人需要在追求轻巧化的同时实现低成本和性能可靠，更大的挑战则在于AI大模型。
+
+　　“距离人形机器人进入生产空间、家庭生活的‘ChatGPT’时刻到来，还需要一点时间。”王兴兴说，国内外机器人厂家和科研机构都在通过不同路径探索，目前正处于突破的“前夜”。
+
+　　在王兴兴看来，人形机器人会在工业及商用领域率先打开局面。他表示，AI和通用机器人技术的诞生，将推动新一轮“工业革命”，也会改变甚至重构生产关系和人机伦理，需要提前思考法律法规体系完善、人机协作安全保障、劳动力技能重塑等问题。
+
+　　“我从小就希望用科技来改变世界。正如‘宇树科技’这个名字，不仅代表着一家企业，我希望点亮一棵在广阔宇宙中枝繁叶茂的‘科技树’。”他说。
 translation: 　"In the next one to two years, robots will have simple, generalized commercial and household capabilities such as tidying up rooms and delivering items." Wang Xingxing, founder of Chinese robot company Yushu Technology, said in an exclusive interview with Xinhua News Agency reporters recently that the company has been continuously improving the operational capabilities of robots in recent years so that robots can "work" for humans.
 
 　　"In the past year, we have upgraded the operating capabilities of the robot arms, such as assembling parts and opening doors, so that robots can help humans free themselves from heavy labor," said Wang Xingxing.
